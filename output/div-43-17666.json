@@ -1,0 +1,80 @@
+[
+  {
+    "ID": 569224,
+    "ReportID": 17666,
+    "AssetTemplateID": 1,
+    "Name": "GFA House",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1980",
+    "QuantityFormula": "105",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 569225,
+    "ReportID": 17666,
+    "AssetTemplateID": 6,
+    "Name": "External",
+    "Area": 1,
+    "IsGivenCost": "0",
+    "RateFormula": "2500",
+    "QuantityFormula": "450",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 569226,
+    "ReportID": 17666,
+    "AssetTemplateID": 8,
+    "Name": "Garage",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1980",
+    "QuantityFormula": "41",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 569345,
+    "ReportID": 17666,
+    "AssetTemplateID": 11,
+    "Name": "Swimming Pool",
+    "Area": 1,
+    "IsGivenCost": "0",
+    "RateFormula": "250000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 569346,
+    "ReportID": 17666,
+    "AssetTemplateID": 298,
+    "Name": "Bathroom Reno",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "28551",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "28/1/2024",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 569347,
+    "ReportID": 17666,
+    "AssetTemplateID": 304,
+    "Name": "Deck",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1250",
+    "QuantityFormula": "9",
+    "InstallationDateFormula": "28/1/24",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

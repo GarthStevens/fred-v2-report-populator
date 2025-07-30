@@ -1,0 +1,80 @@
+[
+  {
+    "ID": 524063,
+    "ReportID": 16309,
+    "AssetTemplateID": 8,
+    "Name": "Garage",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1500",
+    "QuantityFormula": "34",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 524064,
+    "ReportID": 16309,
+    "AssetTemplateID": 1,
+    "Name": "GFA House",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "2250",
+    "QuantityFormula": "102",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 524107,
+    "ReportID": 16309,
+    "AssetTemplateID": 383,
+    "Name": "Patio",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "850",
+    "QuantityFormula": "21",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 524108,
+    "ReportID": 16309,
+    "AssetTemplateID": 382,
+    "Name": "Fencing",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "215",
+    "QuantityFormula": "51",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 524109,
+    "ReportID": 16309,
+    "AssetTemplateID": 299,
+    "Name": "Driveway",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "300",
+    "QuantityFormula": "33",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 524110,
+    "ReportID": 16309,
+    "AssetTemplateID": 3,
+    "Name": "Other",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "377+2506.1+277+3396+10024.41+1006+152.9+1767+180.19+110.1+173.09+850+33.36+285.56+185+26+445.5",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "25/11/2022",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

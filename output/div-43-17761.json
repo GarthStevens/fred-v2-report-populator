@@ -1,0 +1,80 @@
+[
+  {
+    "ID": 572442,
+    "ReportID": 17761,
+    "AssetTemplateID": 1,
+    "Name": "GFA House",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "2650",
+    "QuantityFormula": "98",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 572443,
+    "ReportID": 17761,
+    "AssetTemplateID": 8,
+    "Name": "Garage",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "2350",
+    "QuantityFormula": "16.5*2",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 572444,
+    "ReportID": 17761,
+    "AssetTemplateID": 5,
+    "Name": "External",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "550",
+    "QuantityFormula": "3.8*3.1",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 572446,
+    "ReportID": 17761,
+    "AssetTemplateID": 299,
+    "Name": "Driveway",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "260",
+    "QuantityFormula": "60",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 572480,
+    "ReportID": 17761,
+    "AssetTemplateID": 3,
+    "Name": "Other",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "66.49+235.07+299.78+44.8+34.5+543.09+180.39+129.35",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "08/01/2025",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 572524,
+    "ReportID": 17761,
+    "AssetTemplateID": 302,
+    "Name": "Paint",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "13250",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "22/08/2012",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

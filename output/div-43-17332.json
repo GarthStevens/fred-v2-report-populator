@@ -1,0 +1,15 @@
+[
+  {
+    "ID": 558218,
+    "ReportID": 17332,
+    "AssetTemplateID": 1,
+    "Name": "GFA House",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "10000+93300+990+2028+2145+150+1925+495+130+1521+2500+250+229+360+480+75+7243+308+100+1425+3534+275+4320+3121+2000+7594+1034+6500+147+2840+400+3993+600+1144+2708+152+11439+1221+4950+2708+484+170+3586+3119+4170-75",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

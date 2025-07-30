@@ -1,0 +1,67 @@
+[
+  {
+    "ID": 506596,
+    "ReportID": 15796,
+    "AssetTemplateID": 311,
+    "Name": "Carpark Allowance",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1800",
+    "QuantityFormula": "15",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 506597,
+    "ReportID": 15796,
+    "AssetTemplateID": 1,
+    "Name": "GFA House",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "3250",
+    "QuantityFormula": "68",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 506746,
+    "ReportID": 15796,
+    "AssetTemplateID": 7,
+    "Name": "Balcony",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "3000",
+    "QuantityFormula": "5*2.2",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 506747,
+    "ReportID": 15796,
+    "AssetTemplateID": 6,
+    "Name": "External",
+    "Area": 1,
+    "IsGivenCost": "0",
+    "RateFormula": "400",
+    "QuantityFormula": "116",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 506748,
+    "ReportID": 15796,
+    "AssetTemplateID": 310,
+    "Name": "Foyer",
+    "Area": 1,
+    "IsGivenCost": "0",
+    "RateFormula": "3000",
+    "QuantityFormula": "25",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

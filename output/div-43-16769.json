@@ -1,0 +1,67 @@
+[
+  {
+    "ID": 539175,
+    "ReportID": 16769,
+    "AssetTemplateID": 8,
+    "Name": "Garage",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "2500",
+    "QuantityFormula": "17",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 539176,
+    "ReportID": 16769,
+    "AssetTemplateID": 1,
+    "Name": "GFA House",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "3500",
+    "QuantityFormula": "50",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 539196,
+    "ReportID": 16769,
+    "AssetTemplateID": 5,
+    "Name": "External",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "500",
+    "QuantityFormula": "18",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 539201,
+    "ReportID": 16769,
+    "AssetTemplateID": 10,
+    "Name": "Individual Level",
+    "Area": 1,
+    "IsGivenCost": "0",
+    "RateFormula": "3200",
+    "QuantityFormula": "32*3",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 539202,
+    "ReportID": 16769,
+    "AssetTemplateID": 6,
+    "Name": "External",
+    "Area": 1,
+    "IsGivenCost": "0",
+    "RateFormula": "300",
+    "QuantityFormula": "2318",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

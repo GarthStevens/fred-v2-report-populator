@@ -1,0 +1,93 @@
+[
+  {
+    "ID": 562666,
+    "ReportID": 17460,
+    "AssetTemplateID": 314,
+    "Name": "GFA Unit",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "2200",
+    "QuantityFormula": "93",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 562667,
+    "ReportID": 17460,
+    "AssetTemplateID": 7,
+    "Name": "Balcony",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1200",
+    "QuantityFormula": "3.5*3.5",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 562668,
+    "ReportID": 17460,
+    "AssetTemplateID": 311,
+    "Name": "Carpark Allowance",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1000",
+    "QuantityFormula": "26",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 562669,
+    "ReportID": 17460,
+    "AssetTemplateID": 9,
+    "Name": "Basement",
+    "Area": 1,
+    "IsGivenCost": "0",
+    "RateFormula": "1200",
+    "QuantityFormula": "75*16",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 562670,
+    "ReportID": 17460,
+    "AssetTemplateID": 6,
+    "Name": "External",
+    "Area": 1,
+    "IsGivenCost": "0",
+    "RateFormula": "350",
+    "QuantityFormula": "1500",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 562672,
+    "ReportID": 17460,
+    "AssetTemplateID": 10,
+    "Name": "Individual Level",
+    "Area": 1,
+    "IsGivenCost": "0",
+    "RateFormula": "850",
+    "QuantityFormula": "480*2",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 562674,
+    "ReportID": 17460,
+    "AssetTemplateID": 11,
+    "Name": "Swimming Pool",
+    "Area": 1,
+    "IsGivenCost": "0",
+    "RateFormula": "750000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

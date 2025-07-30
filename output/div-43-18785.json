@@ -1,0 +1,93 @@
+[
+  {
+    "ID": 604370,
+    "ReportID": 18785,
+    "AssetTemplateID": 308,
+    "Name": "Roof and Gutters",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "13255",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "08/08/2020",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 604371,
+    "ReportID": 18785,
+    "AssetTemplateID": 382,
+    "Name": "Fencing",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "215",
+    "QuantityFormula": "17",
+    "InstallationDateFormula": "25/09/2015",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 604391,
+    "ReportID": 18785,
+    "AssetTemplateID": 383,
+    "Name": "Patio",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "850",
+    "QuantityFormula": "26",
+    "InstallationDateFormula": "24/02/2003",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 604392,
+    "ReportID": 18785,
+    "AssetTemplateID": 302,
+    "Name": "Paint",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "11211+4598",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "08/08/2020",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 604393,
+    "ReportID": 18785,
+    "AssetTemplateID": 303,
+    "Name": "Plumbing and Electrical",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "6522",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "08/08/2020",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 604394,
+    "ReportID": 18785,
+    "AssetTemplateID": 298,
+    "Name": "Bathroom Reno",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "9565",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "24/02/2003",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 604395,
+    "ReportID": 18785,
+    "AssetTemplateID": 305,
+    "Name": "Internal",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "4544",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "25/09/2015",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "ID": 578967,
+    "ReportID": 17960,
+    "AssetTemplateID": 1,
+    "Name": "GFA House",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1980",
+    "QuantityFormula": "108",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 579011,
+    "ReportID": 17960,
+    "AssetTemplateID": 3,
+    "Name": "Other",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "717.2+1075.8",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "14/03/2025",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 579012,
+    "ReportID": 17960,
+    "AssetTemplateID": 382,
+    "Name": "Fencing",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "6050",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "08/07/2024",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 579013,
+    "ReportID": 17960,
+    "AssetTemplateID": 382,
+    "Name": "Fencing",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "7150",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "23/07/2024",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 579014,
+    "ReportID": 17960,
+    "AssetTemplateID": 297,
+    "Name": "Kitchen Reno",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "34717+28866",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "21/07/2002",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 579015,
+    "ReportID": 17960,
+    "AssetTemplateID": 5,
+    "Name": "External",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "9320",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "09/10/2006",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 579016,
+    "ReportID": 17960,
+    "AssetTemplateID": 300,
+    "Name": "Extension",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "31612",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "18/10/2004",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

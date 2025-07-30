@@ -1,0 +1,54 @@
+[
+  {
+    "ID": 567387,
+    "ReportID": 17603,
+    "AssetTemplateID": 309,
+    "Name": "Full Reno",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "2400",
+    "QuantityFormula": "97+17",
+    "InstallationDateFormula": "04/07/2024",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 567407,
+    "ReportID": 17603,
+    "AssetTemplateID": 5,
+    "Name": "External",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "450",
+    "QuantityFormula": "170/3",
+    "InstallationDateFormula": "10/11/2010",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 567408,
+    "ReportID": 17603,
+    "AssetTemplateID": 382,
+    "Name": "Fencing",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "500",
+    "QuantityFormula": "16",
+    "InstallationDateFormula": "04/07/2024",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 567431,
+    "ReportID": 17603,
+    "AssetTemplateID": 5,
+    "Name": "External",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "12000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "10/11/2010",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

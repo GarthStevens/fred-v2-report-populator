@@ -1,0 +1,54 @@
+[
+  {
+    "ID": 473892,
+    "ReportID": 14796,
+    "AssetTemplateID": 8,
+    "Name": "Garage",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "850",
+    "QuantityFormula": "7*4",
+    "InstallationDateFormula": "5/6/2021",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 473893,
+    "ReportID": 14796,
+    "AssetTemplateID": 313,
+    "Name": "Landscaping",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "650",
+    "QuantityFormula": "24",
+    "InstallationDateFormula": "9/9/2022",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 473918,
+    "ReportID": 14796,
+    "AssetTemplateID": 312,
+    "Name": "Pergola",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "990",
+    "QuantityFormula": "3.7*7.4",
+    "InstallationDateFormula": "7/10/2023",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 473920,
+    "ReportID": 14796,
+    "AssetTemplateID": 309,
+    "Name": "Full Reno",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "3500+12000+22121+3500+3500+4255+29952+3500+6985+3211",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "9/9/2022",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

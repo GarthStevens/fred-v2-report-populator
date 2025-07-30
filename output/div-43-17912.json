@@ -1,0 +1,41 @@
+[
+  {
+    "ID": 577501,
+    "ReportID": 17912,
+    "AssetTemplateID": 1,
+    "Name": "GFA House",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "2850",
+    "QuantityFormula": "155",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 577502,
+    "ReportID": 17912,
+    "AssetTemplateID": 6,
+    "Name": "External",
+    "Area": 1,
+    "IsGivenCost": "0",
+    "RateFormula": "250",
+    "QuantityFormula": "665",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 577523,
+    "ReportID": 17912,
+    "AssetTemplateID": 7,
+    "Name": "Balcony",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "2000",
+    "QuantityFormula": "16",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

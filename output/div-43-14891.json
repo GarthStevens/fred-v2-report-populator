@@ -1,0 +1,67 @@
+[
+  {
+    "ID": 477112,
+    "ReportID": 14891,
+    "AssetTemplateID": 7,
+    "Name": "Balcony",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "2000",
+    "QuantityFormula": "10",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 477113,
+    "ReportID": 14891,
+    "AssetTemplateID": 314,
+    "Name": "GFA Unit",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "2600",
+    "QuantityFormula": "58",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 477114,
+    "ReportID": 14891,
+    "AssetTemplateID": 9,
+    "Name": "Basement",
+    "Area": 1,
+    "IsGivenCost": "0",
+    "RateFormula": "2000",
+    "QuantityFormula": "620",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 477115,
+    "ReportID": 14891,
+    "AssetTemplateID": 10,
+    "Name": "Individual Level",
+    "Area": 1,
+    "IsGivenCost": "0",
+    "RateFormula": "3000",
+    "QuantityFormula": "79",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 477117,
+    "ReportID": 14891,
+    "AssetTemplateID": 311,
+    "Name": "Carpark Allowance",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "2500",
+    "QuantityFormula": "15",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

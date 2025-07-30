@@ -1,0 +1,67 @@
+[
+  {
+    "ID": 502033,
+    "ReportID": 15653,
+    "AssetTemplateID": 8,
+    "Name": "Garage",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1500",
+    "QuantityFormula": "24",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 502034,
+    "ReportID": 15653,
+    "AssetTemplateID": 1,
+    "Name": "GFA House",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1925",
+    "QuantityFormula": "126",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 502054,
+    "ReportID": 15653,
+    "AssetTemplateID": 299,
+    "Name": "Driveway",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "300",
+    "QuantityFormula": "30",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 502055,
+    "ReportID": 15653,
+    "AssetTemplateID": 382,
+    "Name": "Fencing",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "215",
+    "QuantityFormula": "90",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 502060,
+    "ReportID": 15653,
+    "AssetTemplateID": 3,
+    "Name": "Other",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "45000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "17/05/2012",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "ID": 482913,
+    "ReportID": 15073,
+    "AssetTemplateID": 314,
+    "Name": "GFA Unit",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "3350",
+    "QuantityFormula": "87",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 482915,
+    "ReportID": 15073,
+    "AssetTemplateID": 311,
+    "Name": "Carpark Allowance",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "2500",
+    "QuantityFormula": "16",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 482916,
+    "ReportID": 15073,
+    "AssetTemplateID": 9,
+    "Name": "Basement",
+    "Area": 1,
+    "IsGivenCost": "0",
+    "RateFormula": "2500",
+    "QuantityFormula": "156*18",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 482917,
+    "ReportID": 15073,
+    "AssetTemplateID": 6,
+    "Name": "External",
+    "Area": 1,
+    "IsGivenCost": "0",
+    "RateFormula": "350",
+    "QuantityFormula": "245",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 482918,
+    "ReportID": 15073,
+    "AssetTemplateID": 310,
+    "Name": "Foyer",
+    "Area": 1,
+    "IsGivenCost": "0",
+    "RateFormula": "2500",
+    "QuantityFormula": "85",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 482919,
+    "ReportID": 15073,
+    "AssetTemplateID": 10,
+    "Name": "Individual Level",
+    "Area": 1,
+    "IsGivenCost": "0",
+    "RateFormula": "2500",
+    "QuantityFormula": "26*8",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 482920,
+    "ReportID": 15073,
+    "AssetTemplateID": 4,
+    "Name": "Other",
+    "Area": 1,
+    "IsGivenCost": "0",
+    "RateFormula": "1200",
+    "QuantityFormula": "25",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "ID": 498266,
+    "ReportID": 15538,
+    "AssetTemplateID": 8,
+    "Name": "Garage",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1600",
+    "QuantityFormula": "20",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 498267,
+    "ReportID": 15538,
+    "AssetTemplateID": 1,
+    "Name": "GFA House",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1900",
+    "QuantityFormula": "119",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 498288,
+    "ReportID": 15538,
+    "AssetTemplateID": 299,
+    "Name": "Driveway",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "300",
+    "QuantityFormula": "29",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 498289,
+    "ReportID": 15538,
+    "AssetTemplateID": 382,
+    "Name": "Fencing",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "215",
+    "QuantityFormula": "47",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 498293,
+    "ReportID": 15538,
+    "AssetTemplateID": 5,
+    "Name": "External",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "5500",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "20/09/2015",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 498296,
+    "ReportID": 15538,
+    "AssetTemplateID": 3,
+    "Name": "Other",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "300",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "13/07/2019",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 498297,
+    "ReportID": 15538,
+    "AssetTemplateID": 302,
+    "Name": "Paint",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "2250",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "08/12/2021",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

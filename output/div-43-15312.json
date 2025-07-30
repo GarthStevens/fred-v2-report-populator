@@ -1,0 +1,41 @@
+[
+  {
+    "ID": 491025,
+    "ReportID": 15312,
+    "AssetTemplateID": 1,
+    "Name": "GFA House",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "317066.67+10395.36",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 491026,
+    "ReportID": 15312,
+    "AssetTemplateID": 313,
+    "Name": "Landscaping",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "28216.99-1120",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "17/07/2024",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 491027,
+    "ReportID": 15312,
+    "AssetTemplateID": 382,
+    "Name": "Fencing",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "1683",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "17/07/2024",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

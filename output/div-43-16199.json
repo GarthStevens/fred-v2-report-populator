@@ -1,0 +1,93 @@
+[
+  {
+    "ID": 520431,
+    "ReportID": 16199,
+    "AssetTemplateID": 314,
+    "Name": "GFA Unit",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "2250",
+    "QuantityFormula": "241",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 520434,
+    "ReportID": 16199,
+    "AssetTemplateID": 9,
+    "Name": "Basement",
+    "Area": 1,
+    "IsGivenCost": "0",
+    "RateFormula": "2500",
+    "QuantityFormula": "123*18",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 520435,
+    "ReportID": 16199,
+    "AssetTemplateID": 6,
+    "Name": "External",
+    "Area": 1,
+    "IsGivenCost": "0",
+    "RateFormula": "1000",
+    "QuantityFormula": "420",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 520437,
+    "ReportID": 16199,
+    "AssetTemplateID": 10,
+    "Name": "Individual Level",
+    "Area": 1,
+    "IsGivenCost": "0",
+    "RateFormula": "2500",
+    "QuantityFormula": "72",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 520438,
+    "ReportID": 16199,
+    "AssetTemplateID": 4,
+    "Name": "Other",
+    "Area": 1,
+    "IsGivenCost": "0",
+    "RateFormula": "2500",
+    "QuantityFormula": "45",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 520439,
+    "ReportID": 16199,
+    "AssetTemplateID": 11,
+    "Name": "Swimming Pool",
+    "Area": 1,
+    "IsGivenCost": "0",
+    "RateFormula": "1000000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 520491,
+    "ReportID": 16199,
+    "AssetTemplateID": 309,
+    "Name": "Full Reno",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "3250",
+    "QuantityFormula": "141",
+    "InstallationDateFormula": "16/04/2022",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

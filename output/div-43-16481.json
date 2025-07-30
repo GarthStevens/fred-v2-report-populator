@@ -1,0 +1,41 @@
+[
+  {
+    "ID": 529469,
+    "ReportID": 16481,
+    "AssetTemplateID": 8,
+    "Name": "Garage",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1200",
+    "QuantityFormula": "18",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 529470,
+    "ReportID": 16481,
+    "AssetTemplateID": 1,
+    "Name": "GFA House",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1980",
+    "QuantityFormula": "130-18",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 529537,
+    "ReportID": 16481,
+    "AssetTemplateID": 305,
+    "Name": "Internal",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "6872+238.92+319.10+422.10+674.32+291.05+694.25+529.90+674.32+675+1232+3790+315.45+437.92+2270+1895+187.23+362.41+674.32+24.15+18.95+9.95+94.20+12.95+9.95+32.11+443.51+36.40+36.40+799+869+1432",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "23/06/2019",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

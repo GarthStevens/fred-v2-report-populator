@@ -1,0 +1,67 @@
+[
+  {
+    "ID": 475726,
+    "ReportID": 14848,
+    "AssetTemplateID": 8,
+    "Name": "Garage",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1650",
+    "QuantityFormula": "36",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 475727,
+    "ReportID": 14848,
+    "AssetTemplateID": 1,
+    "Name": "GFA House",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "2000",
+    "QuantityFormula": "146+4",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 475748,
+    "ReportID": 14848,
+    "AssetTemplateID": 6,
+    "Name": "External",
+    "Area": 1,
+    "IsGivenCost": "0",
+    "RateFormula": "250",
+    "QuantityFormula": "880",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 475749,
+    "ReportID": 14848,
+    "AssetTemplateID": 312,
+    "Name": "Pergola",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "700",
+    "QuantityFormula": "14",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 475750,
+    "ReportID": 14848,
+    "AssetTemplateID": 5,
+    "Name": "External",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "200",
+    "QuantityFormula": "74",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

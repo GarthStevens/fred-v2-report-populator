@@ -1,0 +1,67 @@
+[
+  {
+    "ID": 593487,
+    "ReportID": 18432,
+    "AssetTemplateID": 298,
+    "Name": "Bathroom Reno",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "9555",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "6/7/1996",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 593520,
+    "ReportID": 18432,
+    "AssetTemplateID": 300,
+    "Name": "Extension",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "2500",
+    "QuantityFormula": "55",
+    "InstallationDateFormula": "31/08/2018",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 593521,
+    "ReportID": 18432,
+    "AssetTemplateID": 302,
+    "Name": "Paint",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "11255",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "25/09/2022",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 593522,
+    "ReportID": 18432,
+    "AssetTemplateID": 297,
+    "Name": "Kitchen Reno",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "26555",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "6/3/2014",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 593523,
+    "ReportID": 18432,
+    "AssetTemplateID": 382,
+    "Name": "Fencing",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "215",
+    "QuantityFormula": "40",
+    "InstallationDateFormula": "6/7/1996",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

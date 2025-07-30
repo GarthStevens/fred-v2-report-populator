@@ -1,0 +1,80 @@
+[
+  {
+    "ID": 585361,
+    "ReportID": 18166,
+    "AssetTemplateID": 8,
+    "Name": "Garage",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1980",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 585362,
+    "ReportID": 18166,
+    "AssetTemplateID": 1,
+    "Name": "GFA House",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1980",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 585432,
+    "ReportID": 18166,
+    "AssetTemplateID": 309,
+    "Name": "Full Reno",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1250",
+    "QuantityFormula": "121",
+    "InstallationDateFormula": "15/10/23",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 585433,
+    "ReportID": 18166,
+    "AssetTemplateID": 298,
+    "Name": "Bathroom Reno",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "24110",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "1/9/24",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 585434,
+    "ReportID": 18166,
+    "AssetTemplateID": 5,
+    "Name": "External",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1980",
+    "QuantityFormula": "36",
+    "InstallationDateFormula": "14/12/1994",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 585435,
+    "ReportID": 18166,
+    "AssetTemplateID": 5,
+    "Name": "External",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "42558",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "18/9/1998",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

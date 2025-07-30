@@ -1,0 +1,15 @@
+[
+  {
+    "ID": 465116,
+    "ReportID": 14535,
+    "AssetTemplateID": 1,
+    "Name": "GFA",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "2650",
+    "QuantityFormula": "100",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "ID": 547438,
+    "ReportID": 17007,
+    "AssetTemplateID": 305,
+    "Name": "Internal",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "30855+5836.05+18000+5995",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "04/10/2022",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 547474,
+    "ReportID": 17007,
+    "AssetTemplateID": 297,
+    "Name": "Kitchen Reno",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "25000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "04/10/2022",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 547475,
+    "ReportID": 17007,
+    "AssetTemplateID": 298,
+    "Name": "Bathroom Reno",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "35000+30000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "08/08/2007",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 547476,
+    "ReportID": 17007,
+    "AssetTemplateID": 303,
+    "Name": "Plumbing and Electrical",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "15000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "08/08/2007",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

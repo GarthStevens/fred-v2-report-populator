@@ -1,0 +1,93 @@
+[
+  {
+    "ID": 568925,
+    "ReportID": 17654,
+    "AssetTemplateID": 1,
+    "Name": "GFA House",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1980",
+    "QuantityFormula": "85",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 568979,
+    "ReportID": 17654,
+    "AssetTemplateID": 2,
+    "Name": "GFA",
+    "Area": 1,
+    "IsGivenCost": "0",
+    "RateFormula": "2500",
+    "QuantityFormula": "500",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 568980,
+    "ReportID": 17654,
+    "AssetTemplateID": 11,
+    "Name": "Swimming Pool",
+    "Area": 1,
+    "IsGivenCost": "0",
+    "RateFormula": "850000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "20/03/2000",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 568981,
+    "ReportID": 17654,
+    "AssetTemplateID": 3,
+    "Name": "Other",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "252+1440+949+752.5",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "22/05/2022",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 568982,
+    "ReportID": 17654,
+    "AssetTemplateID": 3,
+    "Name": "Other",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "840.4",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "04/08/2023",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 568983,
+    "ReportID": 17654,
+    "AssetTemplateID": 3,
+    "Name": "Other",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "7000+359.8+5440+7500+7300+2135.5+3348.5+1032+4080+1348+1327.7+200+4480+185.55+1008.7+555.77",
+    "QuantityFormula": "01",
+    "InstallationDateFormula": "15/04/2024",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 568986,
+    "ReportID": 17654,
+    "AssetTemplateID": 298,
+    "Name": "Bathroom Reno",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "20000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "19/07/2010",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

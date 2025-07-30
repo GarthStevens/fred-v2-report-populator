@@ -1,0 +1,67 @@
+[
+  {
+    "ID": 605823,
+    "ReportID": 18831,
+    "AssetTemplateID": 8,
+    "Name": "Garage",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1980",
+    "QuantityFormula": "38",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 605824,
+    "ReportID": 18831,
+    "AssetTemplateID": 1,
+    "Name": "GFA House",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "2050",
+    "QuantityFormula": "196",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 605846,
+    "ReportID": 18831,
+    "AssetTemplateID": 312,
+    "Name": "Pergola",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "10000",
+    "QuantityFormula": "12",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 605847,
+    "ReportID": 18831,
+    "AssetTemplateID": 299,
+    "Name": "Driveway",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "165",
+    "QuantityFormula": "40",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 605848,
+    "ReportID": 18831,
+    "AssetTemplateID": 302,
+    "Name": "Paint",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "11325",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "24/11/2024",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

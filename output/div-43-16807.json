@@ -1,0 +1,80 @@
+[
+  {
+    "ID": 540511,
+    "ReportID": 16807,
+    "AssetTemplateID": 1,
+    "Name": "GFA House",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "275000+3733.40",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 540535,
+    "ReportID": 16807,
+    "AssetTemplateID": 5,
+    "Name": "External",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "1100",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "10/05/2022",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 540536,
+    "ReportID": 16807,
+    "AssetTemplateID": 5,
+    "Name": "External",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "2720",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "29/04/2023",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 540537,
+    "ReportID": 16807,
+    "AssetTemplateID": 305,
+    "Name": "Internal",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "500+2500",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "10/01/2021",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 540538,
+    "ReportID": 16807,
+    "AssetTemplateID": 305,
+    "Name": "Internal",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "1000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "2/10/2020",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 540539,
+    "ReportID": 16807,
+    "AssetTemplateID": 313,
+    "Name": "Landscaping",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "6500-1850",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "04/07/2020",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

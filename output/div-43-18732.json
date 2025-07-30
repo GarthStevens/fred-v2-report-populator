@@ -1,0 +1,93 @@
+[
+  {
+    "ID": 602828,
+    "ReportID": 18732,
+    "AssetTemplateID": 8,
+    "Name": "Garage",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1250",
+    "QuantityFormula": "65",
+    "InstallationDateFormula": "27/11/2009",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 602829,
+    "ReportID": 18732,
+    "AssetTemplateID": 1,
+    "Name": "GFA House",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1980",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 602872,
+    "ReportID": 18732,
+    "AssetTemplateID": 312,
+    "Name": "Pergola",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1250",
+    "QuantityFormula": "42",
+    "InstallationDateFormula": "18/9/2001",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 602873,
+    "ReportID": 18732,
+    "AssetTemplateID": 297,
+    "Name": "Kitchen Reno",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "51550",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "7/2/1996",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 602874,
+    "ReportID": 18732,
+    "AssetTemplateID": 302,
+    "Name": "Paint",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "12550",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "11/11/2023",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 602875,
+    "ReportID": 18732,
+    "AssetTemplateID": 3,
+    "Name": "Other",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "25110",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "18/9/01",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 602880,
+    "ReportID": 18732,
+    "AssetTemplateID": 3,
+    "Name": "Other",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "275+220",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "12/8/24",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

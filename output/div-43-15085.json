@@ -1,0 +1,28 @@
+[
+  {
+    "ID": 483324,
+    "ReportID": 15085,
+    "AssetTemplateID": 309,
+    "Name": "Full Reno",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "45300+2285+68.88+416.9+385+539*+245+279+240+145+155+1100+56.96+489+239+29+168.95+49.95+110+25.66+425+1560+1152.27+216+97+68.88+146.25+20.4+16.1+889+176+300",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "16/06/2022",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 483359,
+    "ReportID": 15085,
+    "AssetTemplateID": 298,
+    "Name": "Bathroom Reno",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "545.41",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "20/01/2023",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

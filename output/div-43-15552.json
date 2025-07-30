@@ -1,0 +1,80 @@
+[
+  {
+    "ID": 498653,
+    "ReportID": 15552,
+    "AssetTemplateID": 300,
+    "Name": "Extension",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1800",
+    "QuantityFormula": "4.8*3.8+3.7*3.6",
+    "InstallationDateFormula": "10/01/2002",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 498777,
+    "ReportID": 15552,
+    "AssetTemplateID": 301,
+    "Name": "Swimming Pool",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "62540",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "08/03/1997",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 498781,
+    "ReportID": 15552,
+    "AssetTemplateID": 312,
+    "Name": "Pergola",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "13400",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "10/01/2002",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 498782,
+    "ReportID": 15552,
+    "AssetTemplateID": 303,
+    "Name": "Plumbing and Electrical",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "16000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "10/01/2002",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 498814,
+    "ReportID": 15552,
+    "AssetTemplateID": 305,
+    "Name": "Internal",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "30000+20000+15000+5000+12000+5000+10000+3000+1000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "08/08/2023",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 498815,
+    "ReportID": 15552,
+    "AssetTemplateID": 5,
+    "Name": "External",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "12000+9500+5000+2000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "10/01/2022",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

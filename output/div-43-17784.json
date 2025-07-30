@@ -1,0 +1,93 @@
+[
+  {
+    "ID": 573192,
+    "ReportID": 17784,
+    "AssetTemplateID": 8,
+    "Name": "Garage",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1200",
+    "QuantityFormula": "15",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 573193,
+    "ReportID": 17784,
+    "AssetTemplateID": 1,
+    "Name": "GFA House",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "2000",
+    "QuantityFormula": "136",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 573223,
+    "ReportID": 17784,
+    "AssetTemplateID": 304,
+    "Name": "Deck",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "770",
+    "QuantityFormula": "35",
+    "InstallationDateFormula": "24/12/2008",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 573224,
+    "ReportID": 17784,
+    "AssetTemplateID": 305,
+    "Name": "Internal",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "550",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "10/11/2012",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 573225,
+    "ReportID": 17784,
+    "AssetTemplateID": 305,
+    "Name": "Internal",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "3300+1100+5500+550+150",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "08/03/2016",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 573226,
+    "ReportID": 17784,
+    "AssetTemplateID": 305,
+    "Name": "Internal",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "5500+1200+3300+2300",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "10/01/2018",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 573227,
+    "ReportID": 17784,
+    "AssetTemplateID": 305,
+    "Name": "Internal",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "17984+6000+3495+5000+1600+473.68",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "28/05/2024",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

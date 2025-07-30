@@ -1,0 +1,93 @@
+[
+  {
+    "ID": 501338,
+    "ReportID": 15631,
+    "AssetTemplateID": 302,
+    "Name": "Paint",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "7525+8565",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "24/07/2023",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 501339,
+    "ReportID": 15631,
+    "AssetTemplateID": 297,
+    "Name": "Kitchen Reno",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "23952",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "24/07/2023",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 501360,
+    "ReportID": 15631,
+    "AssetTemplateID": 298,
+    "Name": "Bathroom Reno",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "15525",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "24/07/2023",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 501361,
+    "ReportID": 15631,
+    "AssetTemplateID": 312,
+    "Name": "Pergola",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1550",
+    "QuantityFormula": "30",
+    "InstallationDateFormula": "15/02/2007",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 501362,
+    "ReportID": 15631,
+    "AssetTemplateID": 5,
+    "Name": "External",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "325",
+    "QuantityFormula": "16",
+    "InstallationDateFormula": "6/7/2004",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 501366,
+    "ReportID": 15631,
+    "AssetTemplateID": 382,
+    "Name": "Fencing",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "814",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "3/4/2024",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 501367,
+    "ReportID": 15631,
+    "AssetTemplateID": 299,
+    "Name": "Driveway",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "165",
+    "QuantityFormula": "55",
+    "InstallationDateFormula": "6/7/2004",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

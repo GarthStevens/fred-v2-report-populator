@@ -1,0 +1,67 @@
+[
+  {
+    "ID": 461848,
+    "ReportID": 14425,
+    "AssetTemplateID": 314,
+    "Name": "GFA Unit",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "2500",
+    "QuantityFormula": "38",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 461849,
+    "ReportID": 14425,
+    "AssetTemplateID": 10,
+    "Name": "Individual Level",
+    "Area": 1,
+    "IsGivenCost": "0",
+    "RateFormula": "2500",
+    "QuantityFormula": "3*45",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 461891,
+    "ReportID": 14425,
+    "AssetTemplateID": 4,
+    "Name": "Other",
+    "Area": 1,
+    "IsGivenCost": "1",
+    "RateFormula": "64000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "23/05/2019",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 461892,
+    "ReportID": 14425,
+    "AssetTemplateID": 6,
+    "Name": "External",
+    "Area": 1,
+    "IsGivenCost": "1",
+    "RateFormula": "27000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "05/10/2023",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 461893,
+    "ReportID": 14425,
+    "AssetTemplateID": 305,
+    "Name": "Internal",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "17500+23500+4345",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "17/06/2009",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

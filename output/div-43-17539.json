@@ -1,0 +1,80 @@
+[
+  {
+    "ID": 565188,
+    "ReportID": 17539,
+    "AssetTemplateID": 1,
+    "Name": "GFA House",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "2100",
+    "QuantityFormula": "127+10",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 565189,
+    "ReportID": 17539,
+    "AssetTemplateID": 6,
+    "Name": "External",
+    "Area": 1,
+    "IsGivenCost": "0",
+    "RateFormula": "450",
+    "QuantityFormula": "107.87",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 565190,
+    "ReportID": 17539,
+    "AssetTemplateID": 8,
+    "Name": "Garage",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1200",
+    "QuantityFormula": "24",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 565210,
+    "ReportID": 17539,
+    "AssetTemplateID": 304,
+    "Name": "Deck",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "770",
+    "QuantityFormula": "13.5*3.2",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 565259,
+    "ReportID": 17539,
+    "AssetTemplateID": 5,
+    "Name": "External",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "3000+2500+4000+1500+2000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "03/02/2024",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 565260,
+    "ReportID": 17539,
+    "AssetTemplateID": 303,
+    "Name": "Plumbing and Electrical",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "8000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "18/04/2020",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

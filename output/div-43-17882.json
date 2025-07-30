@@ -1,0 +1,80 @@
+[
+  {
+    "ID": 576498,
+    "ReportID": 17882,
+    "AssetTemplateID": 1,
+    "Name": "GFA House",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1980",
+    "QuantityFormula": "100",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 576520,
+    "ReportID": 17882,
+    "AssetTemplateID": 297,
+    "Name": "Kitchen Reno",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "21223",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "11/05/2017",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 576521,
+    "ReportID": 17882,
+    "AssetTemplateID": 308,
+    "Name": "Roof and Gutters",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "27895",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "08/05/2013",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 576528,
+    "ReportID": 17882,
+    "AssetTemplateID": 3,
+    "Name": "Other",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "132533-6500-2000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "01/11/2024",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 576529,
+    "ReportID": 17882,
+    "AssetTemplateID": 3,
+    "Name": "Other",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "6500",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "01/02/2025",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 576530,
+    "ReportID": 17882,
+    "AssetTemplateID": 3,
+    "Name": "Other",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "2000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "01/04/2025",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

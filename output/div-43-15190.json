@@ -1,0 +1,54 @@
+[
+  {
+    "ID": 486785,
+    "ReportID": 15190,
+    "AssetTemplateID": 309,
+    "Name": "Full Reno",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "300000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "1/12/2014",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 486786,
+    "ReportID": 15190,
+    "AssetTemplateID": 298,
+    "Name": "Bathroom Reno",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "3000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "30/6/24",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 486787,
+    "ReportID": 15190,
+    "AssetTemplateID": 305,
+    "Name": "Internal",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "60000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "1/7/2018",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 486788,
+    "ReportID": 15190,
+    "AssetTemplateID": 382,
+    "Name": "Fencing",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "250",
+    "QuantityFormula": "30",
+    "InstallationDateFormula": "1/1/1994",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "ID": 554497,
+    "ReportID": 17223,
+    "AssetTemplateID": 8,
+    "Name": "Garage",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1200",
+    "QuantityFormula": "9*6",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 554498,
+    "ReportID": 17223,
+    "AssetTemplateID": 1,
+    "Name": "GFA House",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "2200",
+    "QuantityFormula": "3.6*4.6+6.6*6+3.4*2.8+3.6*2.8+4*3.6+6.6*6+4*3.6",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 554547,
+    "ReportID": 17223,
+    "AssetTemplateID": 8,
+    "Name": "Garage",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1200",
+    "QuantityFormula": "9.5*12+3*3",
+    "InstallationDateFormula": "28/05/2023",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 554548,
+    "ReportID": 17223,
+    "AssetTemplateID": 5,
+    "Name": "External",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "485",
+    "QuantityFormula": "27",
+    "InstallationDateFormula": "28/05/2023",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 554549,
+    "ReportID": 17223,
+    "AssetTemplateID": 305,
+    "Name": "Internal",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "50000+25000+20000+15000+12000+35000+10000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "28/05/2023",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 554551,
+    "ReportID": 17223,
+    "AssetTemplateID": 304,
+    "Name": "Deck",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "850",
+    "QuantityFormula": "15",
+    "InstallationDateFormula": "28/05/2023",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 554552,
+    "ReportID": 17223,
+    "AssetTemplateID": 313,
+    "Name": "Landscaping",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "8000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "28/05/2023",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

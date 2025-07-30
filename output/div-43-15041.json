@@ -1,0 +1,67 @@
+[
+  {
+    "ID": 481757,
+    "ReportID": 15041,
+    "AssetTemplateID": 1,
+    "Name": "GFA House",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1980",
+    "QuantityFormula": "123",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 481782,
+    "ReportID": 15041,
+    "AssetTemplateID": 7,
+    "Name": "Balcony",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "2000",
+    "QuantityFormula": "9.8*3.5",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 481783,
+    "ReportID": 15041,
+    "AssetTemplateID": 5,
+    "Name": "External",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "(54*585)+(34*400)",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "08/05/2007",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 481784,
+    "ReportID": 15041,
+    "AssetTemplateID": 298,
+    "Name": "Bathroom Reno",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "17249",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "19/12/1998",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 481785,
+    "ReportID": 15041,
+    "AssetTemplateID": 297,
+    "Name": "Kitchen Reno",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "35000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "29/06/2010",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

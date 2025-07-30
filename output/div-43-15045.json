@@ -1,0 +1,93 @@
+[
+  {
+    "ID": 481862,
+    "ReportID": 15045,
+    "AssetTemplateID": 8,
+    "Name": "Garage",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1980",
+    "QuantityFormula": "22",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 481863,
+    "ReportID": 15045,
+    "AssetTemplateID": 1,
+    "Name": "GFA House",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1980",
+    "QuantityFormula": "154",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 481883,
+    "ReportID": 15045,
+    "AssetTemplateID": 298,
+    "Name": "Bathroom Reno",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "12000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "22/8/07",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 481884,
+    "ReportID": 15045,
+    "AssetTemplateID": 308,
+    "Name": "Roof and Gutters",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "9000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "1/3/2013",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 481885,
+    "ReportID": 15045,
+    "AssetTemplateID": 297,
+    "Name": "Kitchen Reno",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "20000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "1/7/17",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 481886,
+    "ReportID": 15045,
+    "AssetTemplateID": 302,
+    "Name": "Paint",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "60",
+    "QuantityFormula": "154",
+    "InstallationDateFormula": "1/7/17",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 481887,
+    "ReportID": 15045,
+    "AssetTemplateID": 302,
+    "Name": "Paint",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "95",
+    "QuantityFormula": "154",
+    "InstallationDateFormula": "1/7/17",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

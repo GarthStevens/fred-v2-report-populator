@@ -1,0 +1,15 @@
+[
+  {
+    "ID": 500544,
+    "ReportID": 15610,
+    "AssetTemplateID": 309,
+    "Name": "Full Reno",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1700",
+    "QuantityFormula": "123",
+    "InstallationDateFormula": "10/10/2020",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

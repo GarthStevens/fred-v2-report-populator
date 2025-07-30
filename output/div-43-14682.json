@@ -1,0 +1,41 @@
+[
+  {
+    "ID": 470192,
+    "ReportID": 14682,
+    "AssetTemplateID": 300,
+    "Name": "Extension",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "240000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "10/11/1998",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 470212,
+    "ReportID": 14682,
+    "AssetTemplateID": 305,
+    "Name": "Internal",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "80000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "08/08/2008",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 470276,
+    "ReportID": 14682,
+    "AssetTemplateID": 305,
+    "Name": "Internal",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "3150+1101.1+368.5+2013+950+1155+2245+8048.7+245+5995+1650+3133.90+7649",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "08/02/2022",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

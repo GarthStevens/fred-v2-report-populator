@@ -1,0 +1,67 @@
+[
+  {
+    "ID": 584554,
+    "ReportID": 18137,
+    "AssetTemplateID": 8,
+    "Name": "Garage",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1980",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 584555,
+    "ReportID": 18137,
+    "AssetTemplateID": 1,
+    "Name": "GFA House",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1980",
+    "QuantityFormula": "112",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 584581,
+    "ReportID": 18137,
+    "AssetTemplateID": 3,
+    "Name": "Other",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "(112*995)+12500+9000+11500",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "19/08/2022",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 584586,
+    "ReportID": 18137,
+    "AssetTemplateID": 301,
+    "Name": "Swimming Pool",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "88900",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "20/11/2001",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 584619,
+    "ReportID": 18137,
+    "AssetTemplateID": 308,
+    "Name": "Roof and Gutters",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "13278",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "09/11/2016",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

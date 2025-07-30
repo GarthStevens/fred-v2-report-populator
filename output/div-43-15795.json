@@ -1,0 +1,67 @@
+[
+  {
+    "ID": 506586,
+    "ReportID": 15795,
+    "AssetTemplateID": 314,
+    "Name": "GFA Unit",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "2500",
+    "QuantityFormula": "80",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 506588,
+    "ReportID": 15795,
+    "AssetTemplateID": 8,
+    "Name": "Garage",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "16750",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "23/06/1999",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 506589,
+    "ReportID": 15795,
+    "AssetTemplateID": 308,
+    "Name": "Roof and Gutters",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "8299",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "18/05/2005",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 506590,
+    "ReportID": 15795,
+    "AssetTemplateID": 6,
+    "Name": "External",
+    "Area": 1,
+    "IsGivenCost": "0",
+    "RateFormula": "300",
+    "QuantityFormula": "50",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 506591,
+    "ReportID": 15795,
+    "AssetTemplateID": 381,
+    "Name": "Plantation Shutters",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "5950",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "07/08/2000",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

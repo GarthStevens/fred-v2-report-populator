@@ -1,0 +1,93 @@
+[
+  {
+    "ID": 522452,
+    "ReportID": 16262,
+    "AssetTemplateID": 8,
+    "Name": "Garage",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1600",
+    "QuantityFormula": "20",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 522453,
+    "ReportID": 16262,
+    "AssetTemplateID": 1,
+    "Name": "GFA House",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "2000",
+    "QuantityFormula": "151",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 522474,
+    "ReportID": 16262,
+    "AssetTemplateID": 299,
+    "Name": "Driveway",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "300",
+    "QuantityFormula": "37",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 522475,
+    "ReportID": 16262,
+    "AssetTemplateID": 382,
+    "Name": "Fencing",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "215",
+    "QuantityFormula": "51",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 522485,
+    "ReportID": 16262,
+    "AssetTemplateID": 383,
+    "Name": "Patio",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "45000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "27/05/2002",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 522486,
+    "ReportID": 16262,
+    "AssetTemplateID": 301,
+    "Name": "Swimming Pool",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "50000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "18/07/1999",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 522488,
+    "ReportID": 16262,
+    "AssetTemplateID": 298,
+    "Name": "Bathroom Reno",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "44816",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "16/03/2016",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

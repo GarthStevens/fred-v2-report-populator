@@ -1,0 +1,41 @@
+[
+  {
+    "ID": 578462,
+    "ReportID": 17943,
+    "AssetTemplateID": 383,
+    "Name": "Patio",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "660",
+    "QuantityFormula": "29",
+    "InstallationDateFormula": "29/03/2020",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 578463,
+    "ReportID": 17943,
+    "AssetTemplateID": 309,
+    "Name": "Full Reno",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1700",
+    "QuantityFormula": "110",
+    "InstallationDateFormula": "29/03/2020",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 578493,
+    "ReportID": 17943,
+    "AssetTemplateID": 299,
+    "Name": "Driveway",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "30000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "10/02/2024",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

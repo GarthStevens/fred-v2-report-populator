@@ -1,0 +1,80 @@
+[
+  {
+    "ID": 471163,
+    "ReportID": 14710,
+    "AssetTemplateID": 8,
+    "Name": "Garage",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1980",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 471164,
+    "ReportID": 14710,
+    "AssetTemplateID": 1,
+    "Name": "GFA House",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1980",
+    "QuantityFormula": "130",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 471244,
+    "ReportID": 14710,
+    "AssetTemplateID": 3,
+    "Name": "Other",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "8786+169+600+472+394+860+472+129+2502.5+3272.54+1681+425",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "15/12/23",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 471245,
+    "ReportID": 14710,
+    "AssetTemplateID": 3,
+    "Name": "Other",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "215+129+550+2225+465+462",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "07/04/2024",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 471247,
+    "ReportID": 14710,
+    "AssetTemplateID": 298,
+    "Name": "Bathroom Reno",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "20000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "13/07/1997",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 471256,
+    "ReportID": 14710,
+    "AssetTemplateID": 308,
+    "Name": "Roof and Gutters",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "20000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "05/02/2008",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

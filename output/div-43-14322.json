@@ -1,0 +1,93 @@
+[
+  {
+    "ID": 458172,
+    "ReportID": 14322,
+    "AssetTemplateID": 1,
+    "Name": "GFA House",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "2050",
+    "QuantityFormula": "104",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 458193,
+    "ReportID": 14322,
+    "AssetTemplateID": 3,
+    "Name": "Other",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "690",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "23/02/2022",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 458194,
+    "ReportID": 14322,
+    "AssetTemplateID": 303,
+    "Name": "Plumbing and Electrical",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "374",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "10/02/2022",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 458195,
+    "ReportID": 14322,
+    "AssetTemplateID": 3,
+    "Name": "Other",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "2790+99",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "15/12/2022",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 458197,
+    "ReportID": 14322,
+    "AssetTemplateID": 313,
+    "Name": "Landscaping",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "200",
+    "QuantityFormula": "47",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 458198,
+    "ReportID": 14322,
+    "AssetTemplateID": 6,
+    "Name": "External",
+    "Area": 1,
+    "IsGivenCost": "0",
+    "RateFormula": "450",
+    "QuantityFormula": "215",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 458199,
+    "ReportID": 14322,
+    "AssetTemplateID": 8,
+    "Name": "Garage",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1450",
+    "QuantityFormula": "18",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

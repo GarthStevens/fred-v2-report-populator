@@ -1,0 +1,67 @@
+[
+  {
+    "ID": 533403,
+    "ReportID": 16593,
+    "AssetTemplateID": 1,
+    "Name": "GFA House",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1980",
+    "QuantityFormula": "104",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 533424,
+    "ReportID": 16593,
+    "AssetTemplateID": 297,
+    "Name": "Kitchen Reno",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "22948.25",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "14/02/2024",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 533428,
+    "ReportID": 16593,
+    "AssetTemplateID": 307,
+    "Name": "Tiling",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "350",
+    "QuantityFormula": "20",
+    "InstallationDateFormula": "4/7/2008",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 533429,
+    "ReportID": 16593,
+    "AssetTemplateID": 5,
+    "Name": "External",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "225",
+    "QuantityFormula": "25+16",
+    "InstallationDateFormula": "6/09/2015",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 533430,
+    "ReportID": 16593,
+    "AssetTemplateID": 302,
+    "Name": "Paint",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "6590",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "4/7/2008",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

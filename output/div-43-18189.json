@@ -1,0 +1,80 @@
+[
+  {
+    "ID": 585961,
+    "ReportID": 18189,
+    "AssetTemplateID": 312,
+    "Name": "Pergola",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "880",
+    "QuantityFormula": "21",
+    "InstallationDateFormula": "4/01/2001",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 585962,
+    "ReportID": 18189,
+    "AssetTemplateID": 383,
+    "Name": "Patio",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "850",
+    "QuantityFormula": "35",
+    "InstallationDateFormula": "4/01/2001",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 586003,
+    "ReportID": 18189,
+    "AssetTemplateID": 297,
+    "Name": "Kitchen Reno",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "25222",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "15/06/2001",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 586004,
+    "ReportID": 18189,
+    "AssetTemplateID": 297,
+    "Name": "Kitchen Reno",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "6555",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "01/07/2024",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 586005,
+    "ReportID": 18189,
+    "AssetTemplateID": 302,
+    "Name": "Paint",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "11111",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "1/7/2024",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 586006,
+    "ReportID": 18189,
+    "AssetTemplateID": 307,
+    "Name": "Tiling",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "455",
+    "QuantityFormula": "32",
+    "InstallationDateFormula": "1/7/2024",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

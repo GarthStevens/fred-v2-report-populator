@@ -1,0 +1,41 @@
+[
+  {
+    "ID": 594277,
+    "ReportID": 18454,
+    "AssetTemplateID": 1,
+    "Name": "GFA House",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1700",
+    "QuantityFormula": "222.8",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 594300,
+    "ReportID": 18454,
+    "AssetTemplateID": 301,
+    "Name": "Swimming Pool",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "63200",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "18/05/2016",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 594314,
+    "ReportID": 18454,
+    "AssetTemplateID": 302,
+    "Name": "Paint",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "800+700+899.28+800+1940",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "13/08/2024",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "ID": 607178,
+    "ReportID": 18872,
+    "AssetTemplateID": 1,
+    "Name": "GFA House",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "2100",
+    "QuantityFormula": "263",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 607202,
+    "ReportID": 18872,
+    "AssetTemplateID": 301,
+    "Name": "Swimming Pool",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "65255+13250",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "18/10/2021",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 607204,
+    "ReportID": 18872,
+    "AssetTemplateID": 299,
+    "Name": "Driveway",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "225",
+    "QuantityFormula": "25",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 607205,
+    "ReportID": 18872,
+    "AssetTemplateID": 381,
+    "Name": "Plantation Shutters",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "654",
+    "QuantityFormula": "18",
+    "InstallationDateFormula": "18/10/2021",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 607208,
+    "ReportID": 18872,
+    "AssetTemplateID": 302,
+    "Name": "Paint",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "15652",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "18/10/2021",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

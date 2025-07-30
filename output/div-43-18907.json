@@ -1,0 +1,41 @@
+[
+  {
+    "ID": 608205,
+    "ReportID": 18907,
+    "AssetTemplateID": 312,
+    "Name": "Pergola",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "6500",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "28/01/2010",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 608206,
+    "ReportID": 18907,
+    "AssetTemplateID": 1,
+    "Name": "GFA House",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "220000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 608231,
+    "ReportID": 18907,
+    "AssetTemplateID": 3,
+    "Name": "Other",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "3300",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "3/12/2023",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

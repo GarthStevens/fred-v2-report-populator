@@ -1,0 +1,41 @@
+[
+  {
+    "ID": 476646,
+    "ReportID": 14878,
+    "AssetTemplateID": 305,
+    "Name": "Internal",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "10000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "08/03/1995",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 476666,
+    "ReportID": 14878,
+    "AssetTemplateID": 309,
+    "Name": "Full Reno",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "19212+7600+1260+4000+8504",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "10/11/2020",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 476667,
+    "ReportID": 14878,
+    "AssetTemplateID": 312,
+    "Name": "Pergola",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "20440",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "10/10/2022",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

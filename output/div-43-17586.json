@@ -1,0 +1,80 @@
+[
+  {
+    "ID": 566743,
+    "ReportID": 17586,
+    "AssetTemplateID": 1,
+    "Name": "GFA House",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1980",
+    "QuantityFormula": "135",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 566765,
+    "ReportID": 17586,
+    "AssetTemplateID": 3,
+    "Name": "Other",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "3500*2+18999",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "09/11/2002",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 566766,
+    "ReportID": 17586,
+    "AssetTemplateID": 3,
+    "Name": "Other",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "6500+32000+4500+6950",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "21/06/2015",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 566768,
+    "ReportID": 17586,
+    "AssetTemplateID": 5,
+    "Name": "External",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "410.02",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "07/03/2025",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 566769,
+    "ReportID": 17586,
+    "AssetTemplateID": 302,
+    "Name": "Paint",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "12347",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "17/11/2024",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 566771,
+    "ReportID": 17586,
+    "AssetTemplateID": 3,
+    "Name": "Other",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "2365.97",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "06/01/2025",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

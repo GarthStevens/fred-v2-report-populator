@@ -1,0 +1,93 @@
+[
+  {
+    "ID": 578813,
+    "ReportID": 17954,
+    "AssetTemplateID": 299,
+    "Name": "Driveway",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "165",
+    "QuantityFormula": "86",
+    "InstallationDateFormula": "15/09/2008",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 578814,
+    "ReportID": 17954,
+    "AssetTemplateID": 308,
+    "Name": "Roof and Gutters",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "13555+2500",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "15/09/2008",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 578834,
+    "ReportID": 17954,
+    "AssetTemplateID": 305,
+    "Name": "Internal",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1700",
+    "QuantityFormula": "92",
+    "InstallationDateFormula": "15/09/2008",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 578835,
+    "ReportID": 17954,
+    "AssetTemplateID": 302,
+    "Name": "Paint",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "12235",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "20/07/2014",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 578836,
+    "ReportID": 17954,
+    "AssetTemplateID": 297,
+    "Name": "Kitchen Reno",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "4550",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "20/07/2014",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 578837,
+    "ReportID": 17954,
+    "AssetTemplateID": 306,
+    "Name": "Laundry",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "9858",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "20/07/2014",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 578838,
+    "ReportID": 17954,
+    "AssetTemplateID": 5,
+    "Name": "External",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "750",
+    "QuantityFormula": "16",
+    "InstallationDateFormula": "15/09/2008",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

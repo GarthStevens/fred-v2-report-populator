@@ -1,0 +1,93 @@
+[
+  {
+    "ID": 589914,
+    "ReportID": 18314,
+    "AssetTemplateID": 1,
+    "Name": "GFA House",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "1980",
+    "QuantityFormula": "4+4+14+9+19+11+11+6+14+6+4+2+25",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 589915,
+    "ReportID": 18314,
+    "AssetTemplateID": 8,
+    "Name": "Garage",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "1980",
+    "QuantityFormula": "36",
+    "InstallationDateFormula": "04/05/2020",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 589916,
+    "ReportID": 18314,
+    "AssetTemplateID": 299,
+    "Name": "Driveway",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "165",
+    "QuantityFormula": "26",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 589917,
+    "ReportID": 18314,
+    "AssetTemplateID": 7,
+    "Name": "Balcony",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "2000",
+    "QuantityFormula": "13",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 589918,
+    "ReportID": 18314,
+    "AssetTemplateID": 5,
+    "Name": "External",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "550",
+    "QuantityFormula": "6.2*3.7",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 589920,
+    "ReportID": 18314,
+    "AssetTemplateID": 302,
+    "Name": "Paint",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "104.9+453.84+69.25+494.9+21.5+26.45+36.47+979+4000+71.03+17.4+12.97+106.42+362.7",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "10/08/2023",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 589921,
+    "ReportID": 18314,
+    "AssetTemplateID": 3,
+    "Name": "Other",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "734.44+734.44+588.5+627",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "18/02/2024",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

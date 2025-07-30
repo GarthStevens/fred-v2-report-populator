@@ -1,0 +1,41 @@
+[
+  {
+    "ID": 547008,
+    "ReportID": 16995,
+    "AssetTemplateID": 1,
+    "Name": "GFA House",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1980",
+    "QuantityFormula": "152",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 547033,
+    "ReportID": 16995,
+    "AssetTemplateID": 3,
+    "Name": "Other",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "12500+19000+15900",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "19/04/2010",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 547034,
+    "ReportID": 16995,
+    "AssetTemplateID": 297,
+    "Name": "Kitchen Reno",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "20000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "21/02/1999",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

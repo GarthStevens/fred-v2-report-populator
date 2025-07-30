@@ -1,0 +1,67 @@
+[
+  {
+    "ID": 574332,
+    "ReportID": 17816,
+    "AssetTemplateID": 305,
+    "Name": "Internal",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "23222+7588+2245+15477",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "16/03/2017",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 574333,
+    "ReportID": 17816,
+    "AssetTemplateID": 5,
+    "Name": "External",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "6525",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "16/10/2020",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 574353,
+    "ReportID": 17816,
+    "AssetTemplateID": 304,
+    "Name": "Deck",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "12000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "15/01/2024",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 574354,
+    "ReportID": 17816,
+    "AssetTemplateID": 298,
+    "Name": "Bathroom Reno",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "500",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "03/09/2023",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 574357,
+    "ReportID": 17816,
+    "AssetTemplateID": 5,
+    "Name": "External",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "13265",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "16/03/2017",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

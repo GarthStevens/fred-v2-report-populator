@@ -1,0 +1,80 @@
+[
+  {
+    "ID": 494213,
+    "ReportID": 15409,
+    "AssetTemplateID": 8,
+    "Name": "Garage",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "650",
+    "QuantityFormula": "48",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 494214,
+    "ReportID": 15409,
+    "AssetTemplateID": 1,
+    "Name": "GFA House",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1400",
+    "QuantityFormula": "173",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 494290,
+    "ReportID": 15409,
+    "AssetTemplateID": 381,
+    "Name": "Plantation Shutters",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "4798",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "10/01/2020",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 494291,
+    "ReportID": 15409,
+    "AssetTemplateID": 3,
+    "Name": "Other",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "900+1715",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "05/12/2013",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 494292,
+    "ReportID": 15409,
+    "AssetTemplateID": 3,
+    "Name": "Other",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "5100+3200",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "10/01/2020",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 494293,
+    "ReportID": 15409,
+    "AssetTemplateID": 313,
+    "Name": "Landscaping",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "6000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "08/03/2014",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

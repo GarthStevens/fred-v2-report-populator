@@ -1,0 +1,80 @@
+[
+  {
+    "ID": 575681,
+    "ReportID": 17857,
+    "AssetTemplateID": 312,
+    "Name": "Pergola",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "2640",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "13/03/2025",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 575682,
+    "ReportID": 17857,
+    "AssetTemplateID": 302,
+    "Name": "Paint",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "13525",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "6/9/2022",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 575702,
+    "ReportID": 17857,
+    "AssetTemplateID": 297,
+    "Name": "Kitchen Reno",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "27525",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "28/01/2007",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 575703,
+    "ReportID": 17857,
+    "AssetTemplateID": 298,
+    "Name": "Bathroom Reno",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "35454",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "10/06/2005",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 575705,
+    "ReportID": 17857,
+    "AssetTemplateID": 5,
+    "Name": "External",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "700",
+    "QuantityFormula": "41.44",
+    "InstallationDateFormula": "24/08/2010",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 575706,
+    "ReportID": 17857,
+    "AssetTemplateID": 382,
+    "Name": "Fencing",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "180",
+    "QuantityFormula": "125",
+    "InstallationDateFormula": "6/09/1998",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

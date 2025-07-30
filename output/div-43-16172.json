@@ -1,0 +1,93 @@
+[
+  {
+    "ID": 519564,
+    "ReportID": 16172,
+    "AssetTemplateID": 304,
+    "Name": "Deck",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "450",
+    "QuantityFormula": "51",
+    "InstallationDateFormula": "21/07/2008",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 519565,
+    "ReportID": 16172,
+    "AssetTemplateID": 1,
+    "Name": "GFA House",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1980",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 519585,
+    "ReportID": 16172,
+    "AssetTemplateID": 5,
+    "Name": "External",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "4000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "16/09/1989",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 519586,
+    "ReportID": 16172,
+    "AssetTemplateID": 308,
+    "Name": "Roof and Gutters",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "12222",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "21/07/2008",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 519587,
+    "ReportID": 16172,
+    "AssetTemplateID": 299,
+    "Name": "Driveway",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "235",
+    "QuantityFormula": "46",
+    "InstallationDateFormula": "5/5/2023",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 519588,
+    "ReportID": 16172,
+    "AssetTemplateID": 302,
+    "Name": "Paint",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "6585+13525",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "4/08/2022",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 519589,
+    "ReportID": 16172,
+    "AssetTemplateID": 309,
+    "Name": "Full Reno",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "6000+13210+2500+3500+32188+36000+2326+16000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "4/08/2022",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

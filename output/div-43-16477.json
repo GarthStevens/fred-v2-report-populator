@@ -1,0 +1,93 @@
+[
+  {
+    "ID": 529384,
+    "ReportID": 16477,
+    "AssetTemplateID": 8,
+    "Name": "Garage",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "880",
+    "QuantityFormula": "107",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 529385,
+    "ReportID": 16477,
+    "AssetTemplateID": 1,
+    "Name": "GFA House",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1700",
+    "QuantityFormula": "217",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 529405,
+    "ReportID": 16477,
+    "AssetTemplateID": 5,
+    "Name": "External",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "15000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "30/11/2004",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 529406,
+    "ReportID": 16477,
+    "AssetTemplateID": 382,
+    "Name": "Fencing",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "45",
+    "QuantityFormula": "700",
+    "InstallationDateFormula": "6/02/2015",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 529415,
+    "ReportID": 16477,
+    "AssetTemplateID": 8,
+    "Name": "Garage",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "29920+20000+14500",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "3/4/2022",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 529416,
+    "ReportID": 16477,
+    "AssetTemplateID": 5,
+    "Name": "External",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "19000+7000+6300+2150+20000+900",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "3/4/2022",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 529417,
+    "ReportID": 16477,
+    "AssetTemplateID": 383,
+    "Name": "Patio",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "15000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "3/4/2022",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

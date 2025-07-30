@@ -1,0 +1,93 @@
+[
+  {
+    "ID": 542333,
+    "ReportID": 16866,
+    "AssetTemplateID": 1,
+    "Name": "GFA House",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1980",
+    "QuantityFormula": "3*2.9+4.2*3+2.2*2.2+2+3*1.9+6.9*6.3+5",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 542361,
+    "ReportID": 16866,
+    "AssetTemplateID": 8,
+    "Name": "Garage",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1200",
+    "QuantityFormula": "6*3",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 542362,
+    "ReportID": 16866,
+    "AssetTemplateID": 299,
+    "Name": "Driveway",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "165",
+    "QuantityFormula": "46.15",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 542363,
+    "ReportID": 16866,
+    "AssetTemplateID": 5,
+    "Name": "External",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "200",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "01/12/2022",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 542364,
+    "ReportID": 16866,
+    "AssetTemplateID": 305,
+    "Name": "Internal",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "49.95+8.9+4300+4+1041.64+50+431.5+1775.87+89+141.10+82.9+4000+296.10+39.30+563+2000+2100+1750+165+210+400+1474",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "05/04/2023",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 542365,
+    "ReportID": 16866,
+    "AssetTemplateID": 5,
+    "Name": "External",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "6000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "08/08/2000",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 542366,
+    "ReportID": 16866,
+    "AssetTemplateID": 5,
+    "Name": "External",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "8000+9500",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "05/12/2012",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

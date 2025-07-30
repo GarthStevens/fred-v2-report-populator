@@ -1,0 +1,41 @@
+[
+  {
+    "ID": 557317,
+    "ReportID": 17303,
+    "AssetTemplateID": 3,
+    "Name": "Other",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "42959",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 558050,
+    "ReportID": 17303,
+    "AssetTemplateID": 298,
+    "Name": "Bathroom Reno",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "32555",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "19/06/1996",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 558051,
+    "ReportID": 17303,
+    "AssetTemplateID": 302,
+    "Name": "Paint",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "4554",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "17/8/2012",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

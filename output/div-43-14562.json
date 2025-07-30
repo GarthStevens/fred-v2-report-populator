@@ -1,0 +1,28 @@
+[
+  {
+    "ID": 466197,
+    "ReportID": 14562,
+    "AssetTemplateID": 1,
+    "Name": "GFA House",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1980",
+    "QuantityFormula": "105",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 466222,
+    "ReportID": 14562,
+    "AssetTemplateID": 309,
+    "Name": "Full Reno",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "(32000+25000+8000+5000+11900+(105*150))*1.1",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "23/05/2018",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

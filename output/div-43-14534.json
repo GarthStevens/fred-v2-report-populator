@@ -1,0 +1,67 @@
+[
+  {
+    "ID": 465056,
+    "ReportID": 14534,
+    "AssetTemplateID": 305,
+    "Name": "Internal",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "99+43.40+61.09+34.95+66+110+253+1800+208.05+642.60+2747.80+688+435+633.5+1254+95.89+188.46+3634.05+18.12+86.40+102.6+264.66+385+20.48+2314.85+434.5+274+360+20.38+1525.70+600+47.31+102.31+7.65",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "05/08/2020",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 465077,
+    "ReportID": 14534,
+    "AssetTemplateID": 6,
+    "Name": "External",
+    "Area": 1,
+    "IsGivenCost": "0",
+    "RateFormula": "50000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "10/06/2016",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 465162,
+    "ReportID": 14534,
+    "AssetTemplateID": 305,
+    "Name": "Internal",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "8585",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "10/11/2004",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 465163,
+    "ReportID": 14534,
+    "AssetTemplateID": 5,
+    "Name": "External",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "1760+500",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "17/09/2021",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 465326,
+    "ReportID": 14534,
+    "AssetTemplateID": 4,
+    "Name": "Other",
+    "Area": 1,
+    "IsGivenCost": "0",
+    "RateFormula": "22525",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "9/2/2001",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

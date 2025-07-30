@@ -1,0 +1,15 @@
+[
+  {
+    "ID": 483409,
+    "ReportID": 15089,
+    "AssetTemplateID": 1,
+    "Name": "GFA House",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "465000+3000+1000+1200+6000+5000+200+1000+300",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

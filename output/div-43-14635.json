@@ -1,0 +1,54 @@
+[
+  {
+    "ID": 468619,
+    "ReportID": 14635,
+    "AssetTemplateID": 305,
+    "Name": "Internal",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "8000+8500",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "15/04/2020",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 468710,
+    "ReportID": 14635,
+    "AssetTemplateID": 305,
+    "Name": "Internal",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "30000+10000+6000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "15/04/2020",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 468711,
+    "ReportID": 14635,
+    "AssetTemplateID": 305,
+    "Name": "Internal",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "30000+12000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "08/08/2023",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 468715,
+    "ReportID": 14635,
+    "AssetTemplateID": 5,
+    "Name": "External",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "11515+7500",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "20/05/2024",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

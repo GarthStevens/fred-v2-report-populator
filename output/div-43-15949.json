@@ -1,0 +1,28 @@
+[
+  {
+    "ID": 511477,
+    "ReportID": 15949,
+    "AssetTemplateID": 309,
+    "Name": "Full Reno",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "350000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "30/3/23",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 511487,
+    "ReportID": 15949,
+    "AssetTemplateID": 382,
+    "Name": "Fencing",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "215",
+    "QuantityFormula": "45+45+20",
+    "InstallationDateFormula": "4/7/2002",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

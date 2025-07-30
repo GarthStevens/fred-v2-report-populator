@@ -1,0 +1,93 @@
+[
+  {
+    "ID": 611305,
+    "ReportID": 19010,
+    "AssetTemplateID": 311,
+    "Name": "Carpark Allowance",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1400",
+    "QuantityFormula": "25",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 611306,
+    "ReportID": 19010,
+    "AssetTemplateID": 1,
+    "Name": "GFA House",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1980",
+    "QuantityFormula": "130",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 611329,
+    "ReportID": 19010,
+    "AssetTemplateID": 309,
+    "Name": "Full Reno",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "800",
+    "QuantityFormula": "130",
+    "InstallationDateFormula": "1/7/2020",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 611330,
+    "ReportID": 19010,
+    "AssetTemplateID": 297,
+    "Name": "Kitchen Reno",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "20000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "1/7/20",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 611331,
+    "ReportID": 19010,
+    "AssetTemplateID": 298,
+    "Name": "Bathroom Reno",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "22000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "1/7/20",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 611332,
+    "ReportID": 19010,
+    "AssetTemplateID": 299,
+    "Name": "Driveway",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "220",
+    "QuantityFormula": "80",
+    "InstallationDateFormula": "1/8/08",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 611333,
+    "ReportID": 19010,
+    "AssetTemplateID": 382,
+    "Name": "Fencing",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "215",
+    "QuantityFormula": "30",
+    "InstallationDateFormula": "1/8/08",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

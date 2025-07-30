@@ -1,0 +1,15 @@
+[
+  {
+    "ID": 452031,
+    "ReportID": 14134,
+    "AssetTemplateID": 8,
+    "Name": "Garage",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1580",
+    "QuantityFormula": "206",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "ID": 496475,
+    "ReportID": 15485,
+    "AssetTemplateID": 1,
+    "Name": "GFA House",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "231884",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 496680,
+    "ReportID": 15485,
+    "AssetTemplateID": 304,
+    "Name": "Deck",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "1137.63",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "25/04/2024",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 496681,
+    "ReportID": 15485,
+    "AssetTemplateID": 5,
+    "Name": "External",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "3362+1417+500+250+324",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "16/06/2023",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 496682,
+    "ReportID": 15485,
+    "AssetTemplateID": 381,
+    "Name": "Plantation Shutters",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "734.53+733.02",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "22/06/2023",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

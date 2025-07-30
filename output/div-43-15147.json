@@ -1,0 +1,54 @@
+[
+  {
+    "ID": 485324,
+    "ReportID": 15147,
+    "AssetTemplateID": 4,
+    "Name": "Other",
+    "Area": 1,
+    "IsGivenCost": "0",
+    "RateFormula": "50000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "10/02/2024",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 485327,
+    "ReportID": 15147,
+    "AssetTemplateID": 6,
+    "Name": "External",
+    "Area": 1,
+    "IsGivenCost": "0",
+    "RateFormula": "200000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "10/05/2024",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 485389,
+    "ReportID": 15147,
+    "AssetTemplateID": 309,
+    "Name": "Full Reno",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1700",
+    "QuantityFormula": "54",
+    "InstallationDateFormula": "28/03/2008",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 485415,
+    "ReportID": 15147,
+    "AssetTemplateID": 4,
+    "Name": "Other",
+    "Area": 1,
+    "IsGivenCost": "0",
+    "RateFormula": "50000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "3/4/2021",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

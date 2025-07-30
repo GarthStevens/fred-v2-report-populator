@@ -1,0 +1,15 @@
+[
+  {
+    "ID": 606763,
+    "ReportID": 18857,
+    "AssetTemplateID": 1,
+    "Name": "GFA House",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1550",
+    "QuantityFormula": "134",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

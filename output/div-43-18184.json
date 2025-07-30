@@ -1,0 +1,93 @@
+[
+  {
+    "ID": 585818,
+    "ReportID": 18184,
+    "AssetTemplateID": 300,
+    "Name": "Extension",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "2250",
+    "QuantityFormula": "60",
+    "InstallationDateFormula": "05/07/2019",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 585821,
+    "ReportID": 18184,
+    "AssetTemplateID": 299,
+    "Name": "Driveway",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "225",
+    "QuantityFormula": "47",
+    "InstallationDateFormula": "05/07/2019",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 585831,
+    "ReportID": 18184,
+    "AssetTemplateID": 312,
+    "Name": "Pergola",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1200",
+    "QuantityFormula": "19",
+    "InstallationDateFormula": "05/07/2019",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 585844,
+    "ReportID": 18184,
+    "AssetTemplateID": 3,
+    "Name": "Other",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "13555",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "25/08/1998",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 585845,
+    "ReportID": 18184,
+    "AssetTemplateID": 309,
+    "Name": "Full Reno",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1955",
+    "QuantityFormula": "11+6+20+25+9+15+9+6+9",
+    "InstallationDateFormula": "19/10/2017",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 585846,
+    "ReportID": 18184,
+    "AssetTemplateID": 7,
+    "Name": "Balcony",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "2000",
+    "QuantityFormula": "26",
+    "InstallationDateFormula": "15/07/2013",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 585847,
+    "ReportID": 18184,
+    "AssetTemplateID": 300,
+    "Name": "Extension",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1700",
+    "QuantityFormula": "20",
+    "InstallationDateFormula": "16/10/2000",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

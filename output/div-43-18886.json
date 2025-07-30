@@ -1,0 +1,67 @@
+[
+  {
+    "ID": 607587,
+    "ReportID": 18886,
+    "AssetTemplateID": 298,
+    "Name": "Bathroom Reno",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "13850",
+    "QuantityFormula": "9",
+    "InstallationDateFormula": "26/08/2015",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 607588,
+    "ReportID": 18886,
+    "AssetTemplateID": 302,
+    "Name": "Paint",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "19255",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "9/3/2010",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 607613,
+    "ReportID": 18886,
+    "AssetTemplateID": 297,
+    "Name": "Kitchen Reno",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "28655",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "15/09/2009",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 607614,
+    "ReportID": 18886,
+    "AssetTemplateID": 305,
+    "Name": "Internal",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "7555+7555",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "15/09/2009",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 607615,
+    "ReportID": 18886,
+    "AssetTemplateID": 382,
+    "Name": "Fencing",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "215",
+    "QuantityFormula": "45",
+    "InstallationDateFormula": "3/04/2004",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "ID": 453877,
+    "ReportID": 14186,
+    "AssetTemplateID": 1,
+    "Name": "GFA House",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "1200",
+    "QuantityFormula": "90",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 453899,
+    "ReportID": 14186,
+    "AssetTemplateID": 314,
+    "Name": "GFA Unit",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "2855",
+    "QuantityFormula": "60",
+    "InstallationDateFormula": "17/10/2019",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 453900,
+    "ReportID": 14186,
+    "AssetTemplateID": 308,
+    "Name": "Roof and Gutters",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "16750",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "06/09/2017",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 453901,
+    "ReportID": 14186,
+    "AssetTemplateID": 298,
+    "Name": "Bathroom Reno",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "25000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "20/02/2008",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 453902,
+    "ReportID": 14186,
+    "AssetTemplateID": 305,
+    "Name": "Internal",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "100000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "07/03/2016",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

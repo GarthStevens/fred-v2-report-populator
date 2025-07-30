@@ -1,0 +1,41 @@
+[
+  {
+    "ID": 506012,
+    "ReportID": 15773,
+    "AssetTemplateID": 382,
+    "Name": "Fencing",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "215",
+    "QuantityFormula": "18",
+    "InstallationDateFormula": "24/4/2014",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 506022,
+    "ReportID": 15773,
+    "AssetTemplateID": 381,
+    "Name": "Plantation Shutters",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "554",
+    "QuantityFormula": "2.1*2+2.1*2",
+    "InstallationDateFormula": "24/4/2014",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 506023,
+    "ReportID": 15773,
+    "AssetTemplateID": 300,
+    "Name": "Extension",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1700",
+    "QuantityFormula": "121",
+    "InstallationDateFormula": "24/4/2014",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "ID": 481649,
+    "ReportID": 15036,
+    "AssetTemplateID": 305,
+    "Name": "Internal",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "41658",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "6/11/2021",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 481650,
+    "ReportID": 15036,
+    "AssetTemplateID": 297,
+    "Name": "Kitchen Reno",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "17985",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "3/02/2024",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 481676,
+    "ReportID": 15036,
+    "AssetTemplateID": 308,
+    "Name": "Roof and Gutters",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "6252",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "24/02/2002",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 481677,
+    "ReportID": 15036,
+    "AssetTemplateID": 5,
+    "Name": "External",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "175",
+    "QuantityFormula": "45",
+    "InstallationDateFormula": "8/9/2008",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 481702,
+    "ReportID": 15036,
+    "AssetTemplateID": 297,
+    "Name": "Kitchen Reno",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "19858",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "24/02/2002",
+    "ScrappedDateFormula": "3/02/2024",
+    "IsNonDepreciable": "0"
+  }
+]

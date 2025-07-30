@@ -1,0 +1,28 @@
+[
+  {
+    "ID": 478282,
+    "ReportID": 14933,
+    "AssetTemplateID": 298,
+    "Name": "Bathroom Reno",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "26525",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "10/04/2014",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 478283,
+    "ReportID": 14933,
+    "AssetTemplateID": 309,
+    "Name": "Full Reno",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1100",
+    "QuantityFormula": "130",
+    "InstallationDateFormula": "3/02/2012",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

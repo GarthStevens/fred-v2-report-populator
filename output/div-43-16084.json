@@ -1,0 +1,80 @@
+[
+  {
+    "ID": 516731,
+    "ReportID": 16084,
+    "AssetTemplateID": 1,
+    "Name": "GFA House",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1980",
+    "QuantityFormula": "157",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 516774,
+    "ReportID": 16084,
+    "AssetTemplateID": 298,
+    "Name": "Bathroom Reno",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "45000",
+    "QuantityFormula": "2",
+    "InstallationDateFormula": "18/10/2000",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 516775,
+    "ReportID": 16084,
+    "AssetTemplateID": 383,
+    "Name": "Patio",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1100",
+    "QuantityFormula": "32",
+    "InstallationDateFormula": "23/09/2003",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 516776,
+    "ReportID": 16084,
+    "AssetTemplateID": 3,
+    "Name": "Other",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "68000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "12/09/2017",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 516777,
+    "ReportID": 16084,
+    "AssetTemplateID": 305,
+    "Name": "Internal",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "5000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "11/02/2023",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 516781,
+    "ReportID": 16084,
+    "AssetTemplateID": 5,
+    "Name": "External",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "15000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "07/01/2014",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

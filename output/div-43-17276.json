@@ -1,0 +1,80 @@
+[
+  {
+    "ID": 556354,
+    "ReportID": 17276,
+    "AssetTemplateID": 1,
+    "Name": "GFA House",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "2100",
+    "QuantityFormula": "57+96",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 556374,
+    "ReportID": 17276,
+    "AssetTemplateID": 8,
+    "Name": "Garage",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1000",
+    "QuantityFormula": "24",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 556398,
+    "ReportID": 17276,
+    "AssetTemplateID": 305,
+    "Name": "Internal",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "9675",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "11/12/2010",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 556399,
+    "ReportID": 17276,
+    "AssetTemplateID": 302,
+    "Name": "Paint",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "4000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "04/07/2023",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 556400,
+    "ReportID": 17276,
+    "AssetTemplateID": 304,
+    "Name": "Deck",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "1500",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "08/03/2020",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 556401,
+    "ReportID": 17276,
+    "AssetTemplateID": 381,
+    "Name": "Plantation Shutters",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "2000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "24/03/2011",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

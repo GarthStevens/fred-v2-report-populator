@@ -1,0 +1,80 @@
+[
+  {
+    "ID": 600809,
+    "ReportID": 18669,
+    "AssetTemplateID": 299,
+    "Name": "Driveway",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "225",
+    "QuantityFormula": "100.4",
+    "InstallationDateFormula": "25/11/2005",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 600810,
+    "ReportID": 18669,
+    "AssetTemplateID": 305,
+    "Name": "Internal",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "56525",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "6/8/1994",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 600835,
+    "ReportID": 18669,
+    "AssetTemplateID": 302,
+    "Name": "Paint",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "15000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "16/08/2008",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 600836,
+    "ReportID": 18669,
+    "AssetTemplateID": 3,
+    "Name": "Other",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "4519",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "16/08/2008",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 600837,
+    "ReportID": 18669,
+    "AssetTemplateID": 3,
+    "Name": "Other",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "4510",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "6/5/2018",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 600838,
+    "ReportID": 18669,
+    "AssetTemplateID": 309,
+    "Name": "Full Reno",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "100756.95",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "27/05/2022",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

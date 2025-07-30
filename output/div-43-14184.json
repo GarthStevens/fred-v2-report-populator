@@ -1,0 +1,80 @@
+[
+  {
+    "ID": 453826,
+    "ReportID": 14184,
+    "AssetTemplateID": 1,
+    "Name": "GFA House",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1980",
+    "QuantityFormula": "150",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 453851,
+    "ReportID": 14184,
+    "AssetTemplateID": 312,
+    "Name": "Pergola",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "650",
+    "QuantityFormula": "70+60",
+    "InstallationDateFormula": "11/02/2007",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 453852,
+    "ReportID": 14184,
+    "AssetTemplateID": 301,
+    "Name": "Swimming Pool",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "850",
+    "QuantityFormula": "48",
+    "InstallationDateFormula": "08/05/2011",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 453853,
+    "ReportID": 14184,
+    "AssetTemplateID": 8,
+    "Name": "Garage",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "750",
+    "QuantityFormula": "30",
+    "InstallationDateFormula": "09/09/2014",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 453854,
+    "ReportID": 14184,
+    "AssetTemplateID": 299,
+    "Name": "Driveway",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "400",
+    "QuantityFormula": "18",
+    "InstallationDateFormula": "15/10/2020",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 453855,
+    "ReportID": 14184,
+    "AssetTemplateID": 305,
+    "Name": "Internal",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "601",
+    "QuantityFormula": "150",
+    "InstallationDateFormula": "04/06/2016",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "ID": 481628,
+    "ReportID": 15035,
+    "AssetTemplateID": 305,
+    "Name": "Internal",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "39897",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "6/11/2021",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 481629,
+    "ReportID": 15035,
+    "AssetTemplateID": 297,
+    "Name": "Kitchen Reno",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "17000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "Ionut Alexandru-Constanda",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

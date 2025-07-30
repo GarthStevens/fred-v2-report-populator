@@ -1,0 +1,54 @@
+[
+  {
+    "ID": 598900,
+    "ReportID": 18603,
+    "AssetTemplateID": 300,
+    "Name": "Extension",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "2000",
+    "QuantityFormula": "90",
+    "InstallationDateFormula": "04/07/2004",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 598962,
+    "ReportID": 18603,
+    "AssetTemplateID": 304,
+    "Name": "Deck",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "950",
+    "QuantityFormula": "20",
+    "InstallationDateFormula": "04/07/2004",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 598963,
+    "ReportID": 18603,
+    "AssetTemplateID": 305,
+    "Name": "Internal",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "4147.29+1850+1530+1633.5+1633.53+12251.25+11200+500+264.99+1127.93",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "29/06/2024",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 598964,
+    "ReportID": 18603,
+    "AssetTemplateID": 305,
+    "Name": "Internal",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "1127.93+1650+11500+765.87+43.39+265.5+80.56+816.75+553.24+12150+543.24+838.92+11000+246.16+536.76+301.06+58.26+390.67+1920+1920+2310+1740+2100+3500+4352+367.47+804.56+197.25+39.5+49.66+332.50+96.48+169.71",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "18/06/2025",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

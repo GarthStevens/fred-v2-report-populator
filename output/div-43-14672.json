@@ -1,0 +1,54 @@
+[
+  {
+    "ID": 469796,
+    "ReportID": 14672,
+    "AssetTemplateID": 8,
+    "Name": "Garage",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "800",
+    "QuantityFormula": "6*3.7",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 469797,
+    "ReportID": 14672,
+    "AssetTemplateID": 1,
+    "Name": "GFA House",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1900",
+    "QuantityFormula": "143",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 469864,
+    "ReportID": 14672,
+    "AssetTemplateID": 302,
+    "Name": "Paint",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "4950",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "15/07/2023",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 469865,
+    "ReportID": 14672,
+    "AssetTemplateID": 313,
+    "Name": "Landscaping",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "8500",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "05/12/2015",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "ID": 483100,
+    "ReportID": 15078,
+    "AssetTemplateID": 8,
+    "Name": "Garage",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1980",
+    "QuantityFormula": "3*6",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 483101,
+    "ReportID": 15078,
+    "AssetTemplateID": 1,
+    "Name": "GFA House",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1980",
+    "QuantityFormula": "141",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 483168,
+    "ReportID": 15078,
+    "AssetTemplateID": 309,
+    "Name": "Full Reno",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "6198.50+330+5987+8120+165705+3571",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "1/3/24",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 483169,
+    "ReportID": 15078,
+    "AssetTemplateID": 309,
+    "Name": "Full Reno",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "6030",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "1/7/2019",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 483170,
+    "ReportID": 15078,
+    "AssetTemplateID": 309,
+    "Name": "Full Reno",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "3500+4587",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "1/7/2020",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 483171,
+    "ReportID": 15078,
+    "AssetTemplateID": 5,
+    "Name": "External",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "5350",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "1/7/23",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

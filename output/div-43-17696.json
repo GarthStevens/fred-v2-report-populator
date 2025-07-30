@@ -1,0 +1,93 @@
+[
+  {
+    "ID": 570097,
+    "ReportID": 17696,
+    "AssetTemplateID": 5,
+    "Name": "External",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "25000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "19/08/1993",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 570118,
+    "ReportID": 17696,
+    "AssetTemplateID": 6,
+    "Name": "External",
+    "Area": 1,
+    "IsGivenCost": "0",
+    "RateFormula": "250",
+    "QuantityFormula": "100",
+    "InstallationDateFormula": "4/3/2018",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 570119,
+    "ReportID": 17696,
+    "AssetTemplateID": 6,
+    "Name": "External",
+    "Area": 1,
+    "IsGivenCost": "0",
+    "RateFormula": "12000",
+    "QuantityFormula": "30",
+    "InstallationDateFormula": "19/08/1993",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 570120,
+    "ReportID": 17696,
+    "AssetTemplateID": 302,
+    "Name": "Paint",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "9888",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "19/08/1993",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 570121,
+    "ReportID": 17696,
+    "AssetTemplateID": 297,
+    "Name": "Kitchen Reno",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "55525",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "19/08/1993",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 570152,
+    "ReportID": 17696,
+    "AssetTemplateID": 6,
+    "Name": "External",
+    "Area": 1,
+    "IsGivenCost": "0",
+    "RateFormula": "322",
+    "QuantityFormula": "470",
+    "InstallationDateFormula": "19/08/1993",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 570153,
+    "ReportID": 17696,
+    "AssetTemplateID": 303,
+    "Name": "Plumbing and Electrical",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "7577",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "19/08/1993",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

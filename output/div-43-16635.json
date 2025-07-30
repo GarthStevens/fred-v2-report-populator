@@ -1,0 +1,67 @@
+[
+  {
+    "ID": 534839,
+    "ReportID": 16635,
+    "AssetTemplateID": 8,
+    "Name": "Garage",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1980",
+    "QuantityFormula": "18",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 534840,
+    "ReportID": 16635,
+    "AssetTemplateID": 1,
+    "Name": "GFA House",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1980",
+    "QuantityFormula": "188",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 534863,
+    "ReportID": 16635,
+    "AssetTemplateID": 383,
+    "Name": "Patio",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "850",
+    "QuantityFormula": "55",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 534864,
+    "ReportID": 16635,
+    "AssetTemplateID": 301,
+    "Name": "Swimming Pool",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "990",
+    "QuantityFormula": "42",
+    "InstallationDateFormula": "19/09/2004",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 534889,
+    "ReportID": 16635,
+    "AssetTemplateID": 309,
+    "Name": "Full Reno",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "(6000+25000+11500+3900+5000+42000+60000+8500+3200+9000+5000+4000+2000+15000+6000)*1.1",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "08/12/2019",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

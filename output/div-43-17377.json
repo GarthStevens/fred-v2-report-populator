@@ -1,0 +1,28 @@
+[
+  {
+    "ID": 559632,
+    "ReportID": 17377,
+    "AssetTemplateID": 305,
+    "Name": "Internal",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "8600+6500+6200+50000+11000+12800+15350+8220+2400+6600+1200+38000+12000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "04/07/2017",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 559707,
+    "ReportID": 17377,
+    "AssetTemplateID": 306,
+    "Name": "Laundry",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "15000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "10/01/2020",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

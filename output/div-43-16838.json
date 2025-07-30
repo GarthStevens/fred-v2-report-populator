@@ -1,0 +1,41 @@
+[
+  {
+    "ID": 541674,
+    "ReportID": 16838,
+    "AssetTemplateID": 4,
+    "Name": "Other",
+    "Area": 1,
+    "IsGivenCost": "0",
+    "RateFormula": "3500",
+    "QuantityFormula": "42.26+32.18+6.58",
+    "InstallationDateFormula": "25/11/2017",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 541675,
+    "ReportID": 16838,
+    "AssetTemplateID": 309,
+    "Name": "Full Reno",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1758",
+    "QuantityFormula": "80.9",
+    "InstallationDateFormula": "29/08/2011",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 541676,
+    "ReportID": 16838,
+    "AssetTemplateID": 10,
+    "Name": "Individual Level",
+    "Area": 1,
+    "IsGivenCost": "0",
+    "RateFormula": "1500",
+    "QuantityFormula": "48.51*2",
+    "InstallationDateFormula": "25/11/2017",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

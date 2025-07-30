@@ -1,0 +1,93 @@
+[
+  {
+    "ID": 527355,
+    "ReportID": 16407,
+    "AssetTemplateID": 1,
+    "Name": "GFA House",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1980",
+    "QuantityFormula": "164",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 527378,
+    "ReportID": 16407,
+    "AssetTemplateID": 298,
+    "Name": "Bathroom Reno",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "14875",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "23/10/2021",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 527379,
+    "ReportID": 16407,
+    "AssetTemplateID": 308,
+    "Name": "Roof and Gutters",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "12500",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "11/10/2009",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 527380,
+    "ReportID": 16407,
+    "AssetTemplateID": 300,
+    "Name": "Extension",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "2500",
+    "QuantityFormula": "3.6*7.2+2.8*4",
+    "InstallationDateFormula": "09/08/2014",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 527381,
+    "ReportID": 16407,
+    "AssetTemplateID": 5,
+    "Name": "External",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "885",
+    "QuantityFormula": "6.7*3.6",
+    "InstallationDateFormula": "17/02/2015",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 527382,
+    "ReportID": 16407,
+    "AssetTemplateID": 297,
+    "Name": "Kitchen Reno",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "31750",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "10/10/2017",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 527404,
+    "ReportID": 16407,
+    "AssetTemplateID": 3,
+    "Name": "Other",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "(25000+20900+12500+6000+(164*125)+(164*150)+13900)*1.15",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "20/01/2020",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

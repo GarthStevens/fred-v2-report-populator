@@ -1,0 +1,93 @@
+[
+  {
+    "ID": 516953,
+    "ReportID": 16091,
+    "AssetTemplateID": 8,
+    "Name": "Garage",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1750",
+    "QuantityFormula": "24",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 516954,
+    "ReportID": 16091,
+    "AssetTemplateID": 1,
+    "Name": "GFA House",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "2350",
+    "QuantityFormula": "128",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 516978,
+    "ReportID": 16091,
+    "AssetTemplateID": 6,
+    "Name": "External",
+    "Area": 1,
+    "IsGivenCost": "0",
+    "RateFormula": "300",
+    "QuantityFormula": "115",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 516979,
+    "ReportID": 16091,
+    "AssetTemplateID": 384,
+    "Name": "Fencing",
+    "Area": 1,
+    "IsGivenCost": "0",
+    "RateFormula": "200",
+    "QuantityFormula": "138",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 516980,
+    "ReportID": 16091,
+    "AssetTemplateID": 308,
+    "Name": "Roof and Gutters",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "7500",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "01/02/2023",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 516981,
+    "ReportID": 16091,
+    "AssetTemplateID": 3,
+    "Name": "Other",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "2981",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "02/02/2023",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 516983,
+    "ReportID": 16091,
+    "AssetTemplateID": 298,
+    "Name": "Bathroom Reno",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "67219",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "19/10/2018",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

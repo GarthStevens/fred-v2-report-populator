@@ -1,0 +1,93 @@
+[
+  {
+    "ID": 590896,
+    "ReportID": 18349,
+    "AssetTemplateID": 3,
+    "Name": "Other",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "4788+709.5+139.37+1452+565+3335+1498+420+3559.62+800",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "17/11/2024",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 590918,
+    "ReportID": 18349,
+    "AssetTemplateID": 382,
+    "Name": "Fencing",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "215",
+    "QuantityFormula": "40",
+    "InstallationDateFormula": "16/11/2024",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 590919,
+    "ReportID": 18349,
+    "AssetTemplateID": 313,
+    "Name": "Landscaping",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "5000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "16/11/2024",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 590920,
+    "ReportID": 18349,
+    "AssetTemplateID": 308,
+    "Name": "Roof and Gutters",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "19858",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "3/02/2006",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 590921,
+    "ReportID": 18349,
+    "AssetTemplateID": 313,
+    "Name": "Landscaping",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "990",
+    "QuantityFormula": "20",
+    "InstallationDateFormula": "12/12/2009",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 590922,
+    "ReportID": 18349,
+    "AssetTemplateID": 309,
+    "Name": "Full Reno",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1850",
+    "QuantityFormula": "75",
+    "InstallationDateFormula": "15/09/2020",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 590923,
+    "ReportID": 18349,
+    "AssetTemplateID": 300,
+    "Name": "Extension",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1700",
+    "QuantityFormula": "48",
+    "InstallationDateFormula": "3/02/2006",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

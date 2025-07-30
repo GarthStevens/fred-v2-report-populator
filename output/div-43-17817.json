@@ -1,0 +1,80 @@
+[
+  {
+    "ID": 574358,
+    "ReportID": 17817,
+    "AssetTemplateID": 382,
+    "Name": "Fencing",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "7344",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "14/08/2022",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 574359,
+    "ReportID": 17817,
+    "AssetTemplateID": 300,
+    "Name": "Extension",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1350",
+    "QuantityFormula": "48",
+    "InstallationDateFormula": "3/7/1997",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 574379,
+    "ReportID": 17817,
+    "AssetTemplateID": 298,
+    "Name": "Bathroom Reno",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "36525",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "22/8/2016",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 574380,
+    "ReportID": 17817,
+    "AssetTemplateID": 297,
+    "Name": "Kitchen Reno",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "36250",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "11/9/1990",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 574381,
+    "ReportID": 17817,
+    "AssetTemplateID": 303,
+    "Name": "Plumbing and Electrical",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "6255",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "22/8/2016",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 574382,
+    "ReportID": 17817,
+    "AssetTemplateID": 312,
+    "Name": "Pergola",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "450",
+    "QuantityFormula": "42",
+    "InstallationDateFormula": "3/7/1997",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

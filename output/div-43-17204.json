@@ -1,0 +1,67 @@
+[
+  {
+    "ID": 553801,
+    "ReportID": 17204,
+    "AssetTemplateID": 8,
+    "Name": "Garage",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "455",
+    "QuantityFormula": "45",
+    "InstallationDateFormula": "05/08/2019",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 553802,
+    "ReportID": 17204,
+    "AssetTemplateID": 1,
+    "Name": "GFA House",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1980",
+    "QuantityFormula": "64*2",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 553825,
+    "ReportID": 17204,
+    "AssetTemplateID": 314,
+    "Name": "GFA Unit",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "24210+(64*85)+(64*65)+18910+(2*3850)",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "09/10/2020",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 553826,
+    "ReportID": 17204,
+    "AssetTemplateID": 382,
+    "Name": "Fencing",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "255",
+    "QuantityFormula": "72",
+    "InstallationDateFormula": "17/12/2007",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 553827,
+    "ReportID": 17204,
+    "AssetTemplateID": 8,
+    "Name": "Garage",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "500",
+    "QuantityFormula": "49",
+    "InstallationDateFormula": "03/01/2021",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

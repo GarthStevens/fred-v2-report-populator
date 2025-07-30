@@ -1,0 +1,67 @@
+[
+  {
+    "ID": 459072,
+    "ReportID": 14345,
+    "AssetTemplateID": 8,
+    "Name": "Garage",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1980",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 459073,
+    "ReportID": 14345,
+    "AssetTemplateID": 1,
+    "Name": "GFA House",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1980",
+    "QuantityFormula": "185",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 459127,
+    "ReportID": 14345,
+    "AssetTemplateID": 301,
+    "Name": "Swimming Pool",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "1150",
+    "QuantityFormula": "9.4*4.8",
+    "InstallationDateFormula": "17/05/2016",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 459128,
+    "ReportID": 14345,
+    "AssetTemplateID": 3,
+    "Name": "Other",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "(26500+40000+55000+(185*150)+(37*500)+22000+17750)*1.15",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "20/07/2018",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 459130,
+    "ReportID": 14345,
+    "AssetTemplateID": 300,
+    "Name": "Extension",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "1500",
+    "QuantityFormula": "3.3*2.6+7.8*3.3+2.2*2.8+2*2.8+2.7*2.5+7.8*3.5",
+    "InstallationDateFormula": "11/02/2002",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

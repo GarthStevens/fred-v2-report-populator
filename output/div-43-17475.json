@@ -1,0 +1,54 @@
+[
+  {
+    "ID": 563157,
+    "ReportID": 17475,
+    "AssetTemplateID": 8,
+    "Name": "Garage",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1980",
+    "QuantityFormula": "16",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 563158,
+    "ReportID": 17475,
+    "AssetTemplateID": 1,
+    "Name": "GFA House",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "2200",
+    "QuantityFormula": "20+2.6*3.6+3.7*3.7+1.5*2.6+2.6*2.+2+12+16+9",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 563223,
+    "ReportID": 17475,
+    "AssetTemplateID": 308,
+    "Name": "Roof and Gutters",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "6985",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "16/06/2024",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 563224,
+    "ReportID": 17475,
+    "AssetTemplateID": 312,
+    "Name": "Pergola",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1500",
+    "QuantityFormula": "18",
+    "InstallationDateFormula": "10/11/1999",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

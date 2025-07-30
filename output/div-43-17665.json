@@ -1,0 +1,67 @@
+[
+  {
+    "ID": 569179,
+    "ReportID": 17665,
+    "AssetTemplateID": 8,
+    "Name": "Garage",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "800",
+    "QuantityFormula": "5.6*7.5",
+    "InstallationDateFormula": "10/10/2015",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 569180,
+    "ReportID": 17665,
+    "AssetTemplateID": 309,
+    "Name": "Full Reno",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "2000",
+    "QuantityFormula": "240-42",
+    "InstallationDateFormula": "10/10/2015",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 569200,
+    "ReportID": 17665,
+    "AssetTemplateID": 5,
+    "Name": "External",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "500",
+    "QuantityFormula": "80",
+    "InstallationDateFormula": "10/10/2015",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 569201,
+    "ReportID": 17665,
+    "AssetTemplateID": 301,
+    "Name": "Swimming Pool",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "150000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "10/10/2015",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 569223,
+    "ReportID": 17665,
+    "AssetTemplateID": 381,
+    "Name": "Plantation Shutters",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "750",
+    "QuantityFormula": "0.12*198",
+    "InstallationDateFormula": "10/10/2015",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

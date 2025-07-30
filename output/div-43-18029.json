@@ -1,0 +1,41 @@
+[
+  {
+    "ID": 580999,
+    "ReportID": 18029,
+    "AssetTemplateID": 299,
+    "Name": "Driveway",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "250",
+    "QuantityFormula": "24",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 581000,
+    "ReportID": 18029,
+    "AssetTemplateID": 1,
+    "Name": "GFA House",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "2250",
+    "QuantityFormula": "169.57",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 581023,
+    "ReportID": 18029,
+    "AssetTemplateID": 5,
+    "Name": "External",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "125",
+    "QuantityFormula": "44",
+    "InstallationDateFormula": "5/07/2017",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

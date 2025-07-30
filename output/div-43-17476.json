@@ -1,0 +1,28 @@
+[
+  {
+    "ID": 563178,
+    "ReportID": 17476,
+    "AssetTemplateID": 8,
+    "Name": "Garage",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1500",
+    "QuantityFormula": "5.9*5.6",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 563179,
+    "ReportID": 17476,
+    "AssetTemplateID": 1,
+    "Name": "GFA House",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "2500",
+    "QuantityFormula": "3.5*3+1.7*3.2+2.8*3.2+4.2*3.5+2.3*3.4+5.7*4.6+2.9*3.6+2.9*3.6+2.9*3.6",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "ID": 573000,
+    "ReportID": 17779,
+    "AssetTemplateID": 305,
+    "Name": "Internal",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "45000+12000+15000+12000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "03/02/2022",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 573026,
+    "ReportID": 17779,
+    "AssetTemplateID": 11,
+    "Name": "Swimming Pool",
+    "Area": 1,
+    "IsGivenCost": "0",
+    "RateFormula": "500000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "10/11/1995",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 573027,
+    "ReportID": 17779,
+    "AssetTemplateID": 6,
+    "Name": "External",
+    "Area": 1,
+    "IsGivenCost": "0",
+    "RateFormula": "550",
+    "QuantityFormula": "40",
+    "InstallationDateFormula": "10/11/1995",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 573166,
+    "ReportID": 17779,
+    "AssetTemplateID": 6,
+    "Name": "External",
+    "Area": 1,
+    "IsGivenCost": "0",
+    "RateFormula": "28000+43000+15000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "10/11/2008",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

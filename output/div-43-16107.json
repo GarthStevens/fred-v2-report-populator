@@ -1,0 +1,28 @@
+[
+  {
+    "ID": 517444,
+    "ReportID": 16107,
+    "AssetTemplateID": 1,
+    "Name": "GFA House",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "224128",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 517465,
+    "ReportID": 16107,
+    "AssetTemplateID": 5,
+    "Name": "External",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "14500+1120+1120+800+18210-5500",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "13/03/2021",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "ID": 612979,
+    "ReportID": 19072,
+    "AssetTemplateID": 1,
+    "Name": "GFA House",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "3000",
+    "QuantityFormula": "79",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 613062,
+    "ReportID": 19072,
+    "AssetTemplateID": 3,
+    "Name": "Other",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "8000+27500+8217",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "29/05/2008",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 613076,
+    "ReportID": 19072,
+    "AssetTemplateID": 302,
+    "Name": "Paint",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "535.38+153.89+66+1220+8+60.256+385+600",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "1/7/24",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

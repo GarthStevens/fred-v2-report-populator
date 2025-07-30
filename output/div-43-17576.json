@@ -1,0 +1,54 @@
+[
+  {
+    "ID": 566520,
+    "ReportID": 17576,
+    "AssetTemplateID": 8,
+    "Name": "Garage",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1980",
+    "QuantityFormula": "115",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 566546,
+    "ReportID": 17576,
+    "AssetTemplateID": 314,
+    "Name": "GFA Unit",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "262881.34",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "25/01/2025",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 566577,
+    "ReportID": 17576,
+    "AssetTemplateID": 298,
+    "Name": "Bathroom Reno",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "30000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "10/02/2015",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 566578,
+    "ReportID": 17576,
+    "AssetTemplateID": 304,
+    "Name": "Deck",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "850",
+    "QuantityFormula": "18",
+    "InstallationDateFormula": "04/10/2017",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "ID": 552696,
+    "ReportID": 17171,
+    "AssetTemplateID": 8,
+    "Name": "Garage",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1980",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 552697,
+    "ReportID": 17171,
+    "AssetTemplateID": 1,
+    "Name": "GFA House",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1980",
+    "QuantityFormula": "85",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 552719,
+    "ReportID": 17171,
+    "AssetTemplateID": 298,
+    "Name": "Bathroom Reno",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "28226",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "12/05/2010",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 552723,
+    "ReportID": 17171,
+    "AssetTemplateID": 3,
+    "Name": "Other",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "39500",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "10/12/2024",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 552972,
+    "ReportID": 17171,
+    "AssetTemplateID": 306,
+    "Name": "Laundry",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "6999",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "12/05/2010",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 552973,
+    "ReportID": 17171,
+    "AssetTemplateID": 7,
+    "Name": "Balcony",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "745",
+    "QuantityFormula": "22",
+    "InstallationDateFormula": "6/7/2004",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

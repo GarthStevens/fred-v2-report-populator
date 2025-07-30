@@ -1,0 +1,54 @@
+[
+  {
+    "ID": 566773,
+    "ReportID": 17587,
+    "AssetTemplateID": 300,
+    "Name": "Extension",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "2000",
+    "QuantityFormula": "8.5*2.9+1.8*1.8+6*3+2.4*3",
+    "InstallationDateFormula": "23/10/1990",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 566793,
+    "ReportID": 17587,
+    "AssetTemplateID": 301,
+    "Name": "Swimming Pool",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "100000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "30/07/1990",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 566794,
+    "ReportID": 17587,
+    "AssetTemplateID": 300,
+    "Name": "Extension",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "2000",
+    "QuantityFormula": "1.8*3.5",
+    "InstallationDateFormula": "05/12/2007",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 566795,
+    "ReportID": 17587,
+    "AssetTemplateID": 305,
+    "Name": "Internal",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "140+21.95+7.3+44.85+6.16+2490+2490+128+26.5+140.6+84.35+30.37+2443.21+97.86+41.46+197.80+73.93+183.41+44.9+244.63+9.9+458.85+699.77+3.49+379.05+347.02+76.35+72.68+65.48+352.26+235+11+2000+1500+327+241+82+266+53+2000+2000+635+199+140+131+313+174+500+74+43+91+32+865+20+482+1084+259+11000+236+285+47+74+130+1000+554+550+660+3+113+1240+2500+804+2500+3503+15+1000+211+12+526+3953+85+5000+5000+5000+790+1000+106+40+17+978+576+142+998+1134+1000+302+388+1832+1500",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "01/03/2025",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

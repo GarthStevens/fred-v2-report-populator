@@ -1,0 +1,41 @@
+[
+  {
+    "ID": 565763,
+    "ReportID": 17556,
+    "AssetTemplateID": 308,
+    "Name": "Roof and Gutters",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "25655",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "15/11/2020",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 565764,
+    "ReportID": 17556,
+    "AssetTemplateID": 309,
+    "Name": "Full Reno",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1750",
+    "QuantityFormula": "202",
+    "InstallationDateFormula": "03/11/2003",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 565784,
+    "ReportID": 17556,
+    "AssetTemplateID": 298,
+    "Name": "Bathroom Reno",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "36545",
+    "QuantityFormula": "2",
+    "InstallationDateFormula": "05/06/2022",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

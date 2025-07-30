@@ -1,0 +1,67 @@
+[
+  {
+    "ID": 608004,
+    "ReportID": 18898,
+    "AssetTemplateID": 301,
+    "Name": "Swimming Pool",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "12000+22000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "10/12/1990",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 608009,
+    "ReportID": 18898,
+    "AssetTemplateID": 302,
+    "Name": "Paint",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "12300",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "7/4/25",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 608010,
+    "ReportID": 18898,
+    "AssetTemplateID": 382,
+    "Name": "Fencing",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "2070",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "28/05/2025",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 608011,
+    "ReportID": 18898,
+    "AssetTemplateID": 298,
+    "Name": "Bathroom Reno",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "6000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "09/04/2023",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 608041,
+    "ReportID": 18898,
+    "AssetTemplateID": 3,
+    "Name": "Other",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "470",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "15/06/2025",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

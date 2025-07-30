@@ -1,0 +1,80 @@
+[
+  {
+    "ID": 563993,
+    "ReportID": 17501,
+    "AssetTemplateID": 312,
+    "Name": "Pergola",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "900",
+    "QuantityFormula": "3.2*6.8",
+    "InstallationDateFormula": "19/02/2018",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 563994,
+    "ReportID": 17501,
+    "AssetTemplateID": 1,
+    "Name": "GFA House",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1650",
+    "QuantityFormula": "185",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 564016,
+    "ReportID": 17501,
+    "AssetTemplateID": 382,
+    "Name": "Fencing",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "2000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "3/2/2021",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 564017,
+    "ReportID": 17501,
+    "AssetTemplateID": 305,
+    "Name": "Internal",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "1000+1000+1000+1000+4000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "03/02/2021",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 564018,
+    "ReportID": 17501,
+    "AssetTemplateID": 304,
+    "Name": "Deck",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "1000+6000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "3/2/2021",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 564019,
+    "ReportID": 17501,
+    "AssetTemplateID": 304,
+    "Name": "Deck",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "650",
+    "QuantityFormula": "6.1*2.5",
+    "InstallationDateFormula": "19/02/2018",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

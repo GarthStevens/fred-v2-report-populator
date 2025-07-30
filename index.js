@@ -73,3 +73,7 @@ function processDiv40() {
     console.log(`Wrote ${assets.length} assets to ${filename}`);
   }
 }
+
+
+processDiv40()
+processDiv43();

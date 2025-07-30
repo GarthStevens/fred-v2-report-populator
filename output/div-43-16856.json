@@ -1,0 +1,54 @@
+[
+  {
+    "ID": 542105,
+    "ReportID": 16856,
+    "AssetTemplateID": 1,
+    "Name": "GFA House",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1980",
+    "QuantityFormula": "144",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 542128,
+    "ReportID": 16856,
+    "AssetTemplateID": 3,
+    "Name": "Other",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "209445",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "19/10/2019",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 542129,
+    "ReportID": 16856,
+    "AssetTemplateID": 3,
+    "Name": "Other",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "56719",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "12/04/2023",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 542130,
+    "ReportID": 16856,
+    "AssetTemplateID": 308,
+    "Name": "Roof and Gutters",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "12992",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "05/06/2013",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

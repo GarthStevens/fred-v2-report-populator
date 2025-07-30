@@ -1,0 +1,28 @@
+[
+  {
+    "ID": 546682,
+    "ReportID": 16985,
+    "AssetTemplateID": 314,
+    "Name": "GFA Unit",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "275833.63-50000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 546683,
+    "ReportID": 16985,
+    "AssetTemplateID": 2,
+    "Name": "GFA",
+    "Area": 1,
+    "IsGivenCost": "1",
+    "RateFormula": "50000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

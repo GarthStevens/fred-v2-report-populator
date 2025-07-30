@@ -1,0 +1,28 @@
+[
+  {
+    "ID": 521511,
+    "ReportID": 16233,
+    "AssetTemplateID": 309,
+    "Name": "Full Reno",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "215286.27-43880.73",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "25/04/2024",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 521533,
+    "ReportID": 16233,
+    "AssetTemplateID": 309,
+    "Name": "Full Reno",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "543.15+3059.71+73.46+50+250+997.28+30593+1500+525.62+2600+3688.51",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "06/05/2023",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

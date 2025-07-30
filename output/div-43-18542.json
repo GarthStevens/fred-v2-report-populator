@@ -1,0 +1,80 @@
+[
+  {
+    "ID": 597064,
+    "ReportID": 18542,
+    "AssetTemplateID": 1,
+    "Name": "GFA House",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1980",
+    "QuantityFormula": "120",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 597084,
+    "ReportID": 18542,
+    "AssetTemplateID": 298,
+    "Name": "Bathroom Reno",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "24326",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "11/5/25",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 597085,
+    "ReportID": 18542,
+    "AssetTemplateID": 3,
+    "Name": "Other",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "675",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "17/5/25",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 597086,
+    "ReportID": 18542,
+    "AssetTemplateID": 311,
+    "Name": "Carpark Allowance",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "5011.06",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "24/5/25",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 597087,
+    "ReportID": 18542,
+    "AssetTemplateID": 302,
+    "Name": "Paint",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "3300",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "19/6/25",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 597088,
+    "ReportID": 18542,
+    "AssetTemplateID": 297,
+    "Name": "Kitchen Reno",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "45450",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "14/5/2020",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

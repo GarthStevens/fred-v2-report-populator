@@ -1,0 +1,54 @@
+[
+  {
+    "ID": 463551,
+    "ReportID": 14475,
+    "AssetTemplateID": 1,
+    "Name": "GFA House",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1980",
+    "QuantityFormula": "270",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 463586,
+    "ReportID": 14475,
+    "AssetTemplateID": 3,
+    "Name": "Other",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "18000+11500+18000+38000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "22/03/2024",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 463609,
+    "ReportID": 14475,
+    "AssetTemplateID": 309,
+    "Name": "Full Reno",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "(75000+48000+42500+(270*150)+(270*15)+(84*400)+(75*1445)+(28*400)+(31.58*775)+(31.58*750)+(36.68*225))*1.1",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "26/10/2022",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 463613,
+    "ReportID": 14475,
+    "AssetTemplateID": 305,
+    "Name": "Internal",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "225419*1.1",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "14/02/2012",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

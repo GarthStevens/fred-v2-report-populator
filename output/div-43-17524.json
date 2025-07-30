@@ -1,0 +1,93 @@
+[
+  {
+    "ID": 564755,
+    "ReportID": 17524,
+    "AssetTemplateID": 307,
+    "Name": "Tiling",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "550",
+    "QuantityFormula": "36",
+    "InstallationDateFormula": "18/02/2009",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 564756,
+    "ReportID": 17524,
+    "AssetTemplateID": 6,
+    "Name": "External",
+    "Area": 1,
+    "IsGivenCost": "0",
+    "RateFormula": "250",
+    "QuantityFormula": "700",
+    "InstallationDateFormula": "06/09/1997",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 564757,
+    "ReportID": 17524,
+    "AssetTemplateID": 298,
+    "Name": "Bathroom Reno",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "29858",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "18/02/2009",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 564779,
+    "ReportID": 17524,
+    "AssetTemplateID": 11,
+    "Name": "Swimming Pool",
+    "Area": 1,
+    "IsGivenCost": "0",
+    "RateFormula": "69000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "06/09/1997",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 564780,
+    "ReportID": 17524,
+    "AssetTemplateID": 297,
+    "Name": "Kitchen Reno",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "26265",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "4/10/2015",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 564781,
+    "ReportID": 17524,
+    "AssetTemplateID": 302,
+    "Name": "Paint",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "4899",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "4/10/2015",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 564782,
+    "ReportID": 17524,
+    "AssetTemplateID": 305,
+    "Name": "Internal",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "3255",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "06/09/1997",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

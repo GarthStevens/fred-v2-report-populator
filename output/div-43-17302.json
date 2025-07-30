@@ -1,0 +1,80 @@
+[
+  {
+    "ID": 557283,
+    "ReportID": 17302,
+    "AssetTemplateID": 1,
+    "Name": "GFA House",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1980",
+    "QuantityFormula": "137",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 557305,
+    "ReportID": 17302,
+    "AssetTemplateID": 5,
+    "Name": "External",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "30000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "21/09/2005",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 557307,
+    "ReportID": 17302,
+    "AssetTemplateID": 3,
+    "Name": "Other",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "33218",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "11/05/2023",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 558074,
+    "ReportID": 17302,
+    "AssetTemplateID": 300,
+    "Name": "Extension",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1150",
+    "QuantityFormula": "16",
+    "InstallationDateFormula": "21/09/2005",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 558075,
+    "ReportID": 17302,
+    "AssetTemplateID": 299,
+    "Name": "Driveway",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "215",
+    "QuantityFormula": "33",
+    "InstallationDateFormula": "21/09/2005",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 558076,
+    "ReportID": 17302,
+    "AssetTemplateID": 302,
+    "Name": "Paint",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "8555",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "21/09/2005",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

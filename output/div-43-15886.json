@@ -1,0 +1,15 @@
+[
+  {
+    "ID": 509218,
+    "ReportID": 15886,
+    "AssetTemplateID": 305,
+    "Name": "Internal",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "57309",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "08/08/2024",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

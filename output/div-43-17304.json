@@ -1,0 +1,28 @@
+[
+  {
+    "ID": 557325,
+    "ReportID": 17304,
+    "AssetTemplateID": 3,
+    "Name": "Other",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "46829",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 558052,
+    "ReportID": 17304,
+    "AssetTemplateID": 302,
+    "Name": "Paint",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "16250",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "23/03/2005",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

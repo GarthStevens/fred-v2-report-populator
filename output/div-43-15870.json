@@ -1,0 +1,93 @@
+[
+  {
+    "ID": 508564,
+    "ReportID": 15870,
+    "AssetTemplateID": 8,
+    "Name": "Garage",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1980",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 508565,
+    "ReportID": 15870,
+    "AssetTemplateID": 1,
+    "Name": "GFA House",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1980",
+    "QuantityFormula": "111",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 508590,
+    "ReportID": 15870,
+    "AssetTemplateID": 298,
+    "Name": "Bathroom Reno",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "5887",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "17/10/2022",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 508612,
+    "ReportID": 15870,
+    "AssetTemplateID": 299,
+    "Name": "Driveway",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "255",
+    "QuantityFormula": "53",
+    "InstallationDateFormula": "09/04/2016",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 508613,
+    "ReportID": 15870,
+    "AssetTemplateID": 297,
+    "Name": "Kitchen Reno",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "26255",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "25/01/2004",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 508614,
+    "ReportID": 15870,
+    "AssetTemplateID": 303,
+    "Name": "Plumbing and Electrical",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "(111*95)+(111*150)+(7*3200)+(3*2000)",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "10/10/2011",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 508615,
+    "ReportID": 15870,
+    "AssetTemplateID": 298,
+    "Name": "Bathroom Reno",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "13297",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "07/06/2000",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

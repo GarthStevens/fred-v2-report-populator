@@ -1,0 +1,67 @@
+[
+  {
+    "ID": 582289,
+    "ReportID": 18070,
+    "AssetTemplateID": 307,
+    "Name": "Tiling",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "550",
+    "QuantityFormula": "40",
+    "InstallationDateFormula": "05/09/2011",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 582290,
+    "ReportID": 18070,
+    "AssetTemplateID": 297,
+    "Name": "Kitchen Reno",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "22111",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "5/09/2011",
+    "ScrappedDateFormula": "30/11/2023",
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 582323,
+    "ReportID": 18070,
+    "AssetTemplateID": 309,
+    "Name": "Full Reno",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "24478.78",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "30/11/2023",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 582324,
+    "ReportID": 18070,
+    "AssetTemplateID": 309,
+    "Name": "Full Reno",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "71271.52",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "07/03/2024",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 582325,
+    "ReportID": 18070,
+    "AssetTemplateID": 302,
+    "Name": "Paint",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "5665.2",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "07/02/2025",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "ID": 504456,
+    "ReportID": 15728,
+    "AssetTemplateID": 1,
+    "Name": "GFA House",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "15000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 504504,
+    "ReportID": 15728,
+    "AssetTemplateID": 382,
+    "Name": "Fencing",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "1000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "01/09/2023",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 504505,
+    "ReportID": 15728,
+    "AssetTemplateID": 382,
+    "Name": "Fencing",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "150",
+    "QuantityFormula": "150",
+    "InstallationDateFormula": "04/07/2012",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 504506,
+    "ReportID": 15728,
+    "AssetTemplateID": 299,
+    "Name": "Driveway",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "2500",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "01/09/2023",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

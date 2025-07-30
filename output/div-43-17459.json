@@ -1,0 +1,80 @@
+[
+  {
+    "ID": 562646,
+    "ReportID": 17459,
+    "AssetTemplateID": 305,
+    "Name": "Internal",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "15000+10000+15000+30000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "08/08/2003",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 562726,
+    "ReportID": 17459,
+    "AssetTemplateID": 301,
+    "Name": "Swimming Pool",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "80000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "08/08/2003",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 562778,
+    "ReportID": 17459,
+    "AssetTemplateID": 382,
+    "Name": "Fencing",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "5000+2000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "10/01/2013",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 562779,
+    "ReportID": 17459,
+    "AssetTemplateID": 303,
+    "Name": "Plumbing and Electrical",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "15000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "08/08/2003",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 562780,
+    "ReportID": 17459,
+    "AssetTemplateID": 305,
+    "Name": "Internal",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "7200+1100+4000+4000+6000+400+600+500+150+300+500",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "08/03/2023",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 562782,
+    "ReportID": 17459,
+    "AssetTemplateID": 5,
+    "Name": "External",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "4000+2500+6100",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "05/07/2021",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

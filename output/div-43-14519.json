@@ -1,0 +1,41 @@
+[
+  {
+    "ID": 464806,
+    "ReportID": 14519,
+    "AssetTemplateID": 3,
+    "Name": "Other",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "3963+4880+10835+650+2900+1163+200+605+586+5666",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "13/01/2024",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 464809,
+    "ReportID": 14519,
+    "AssetTemplateID": 309,
+    "Name": "Full Reno",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "((53500+39750)+(57*175)+(57*105)+15000+6500+(3.5*6)*1875)*1.1",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "10/03/2019",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 465360,
+    "ReportID": 14519,
+    "AssetTemplateID": 5,
+    "Name": "External",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "175",
+    "QuantityFormula": "25",
+    "InstallationDateFormula": "4/08/2015",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

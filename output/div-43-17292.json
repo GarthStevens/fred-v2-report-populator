@@ -1,0 +1,67 @@
+[
+  {
+    "ID": 556909,
+    "ReportID": 17292,
+    "AssetTemplateID": 1,
+    "Name": "GFA House",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1980",
+    "QuantityFormula": "113",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 557025,
+    "ReportID": 17292,
+    "AssetTemplateID": 308,
+    "Name": "Roof and Gutters",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "935",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "25/12/2024",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 557026,
+    "ReportID": 17292,
+    "AssetTemplateID": 308,
+    "Name": "Roof and Gutters",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "994",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "30/01/2025",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 557027,
+    "ReportID": 17292,
+    "AssetTemplateID": 303,
+    "Name": "Plumbing and Electrical",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "1683",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "16/10/2024",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 557028,
+    "ReportID": 17292,
+    "AssetTemplateID": 309,
+    "Name": "Full Reno",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "(48000+32500+28900+7500+8000+5000+6000+4500+12500+6595+18900+6750+5000)*1.2",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "11/09/2020",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

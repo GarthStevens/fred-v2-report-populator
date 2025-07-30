@@ -1,0 +1,15 @@
+[
+  {
+    "ID": 460887,
+    "ReportID": 14398,
+    "AssetTemplateID": 314,
+    "Name": "GFA Unit",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "2200",
+    "QuantityFormula": "501",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

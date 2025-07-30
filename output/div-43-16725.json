@@ -1,0 +1,54 @@
+[
+  {
+    "ID": 537899,
+    "ReportID": 16725,
+    "AssetTemplateID": 300,
+    "Name": "Extension",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1800",
+    "QuantityFormula": "4.4*4.8+3.4*2.9+2.2*1.9+4.2*2.4+3.1*3.8+2.9*3",
+    "InstallationDateFormula": "15/04/2016",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 537940,
+    "ReportID": 16725,
+    "AssetTemplateID": 8,
+    "Name": "Garage",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1200",
+    "QuantityFormula": "22.8",
+    "InstallationDateFormula": "15/04/2016",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 537941,
+    "ReportID": 16725,
+    "AssetTemplateID": 304,
+    "Name": "Deck",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "900",
+    "QuantityFormula": "30.4",
+    "InstallationDateFormula": "15/04/2016",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 537946,
+    "ReportID": 16725,
+    "AssetTemplateID": 309,
+    "Name": "Full Reno",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1800",
+    "QuantityFormula": "3.1*5.1+6.5*4.6+2.1*2.1+3.1*3.1+1.9*2.4+3.4*5.9+1.5*3.5+3.1*3.1+3.1*1.9+3.1*4.3+3.1*3.2+2.1*2.9",
+    "InstallationDateFormula": "15/04/2016",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

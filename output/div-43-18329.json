@@ -1,0 +1,41 @@
+[
+  {
+    "ID": 590358,
+    "ReportID": 18329,
+    "AssetTemplateID": 1,
+    "Name": "GFA House",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "2415",
+    "QuantityFormula": "144",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 590424,
+    "ReportID": 18329,
+    "AssetTemplateID": 298,
+    "Name": "Bathroom Reno",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "75615",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "18/10/2024",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 590425,
+    "ReportID": 18329,
+    "AssetTemplateID": 298,
+    "Name": "Bathroom Reno",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "30000",
+    "QuantityFormula": "2",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": "17/10/2024",
+    "IsNonDepreciable": "0"
+  }
+]

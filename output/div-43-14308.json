@@ -1,0 +1,15 @@
+[
+  {
+    "ID": 457719,
+    "ReportID": 14308,
+    "AssetTemplateID": 5,
+    "Name": "External",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "8000+4233+15885+5590+2210+8500",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "13/09/2004",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

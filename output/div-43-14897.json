@@ -1,0 +1,41 @@
+[
+  {
+    "ID": 477222,
+    "ReportID": 14897,
+    "AssetTemplateID": 305,
+    "Name": "Internal",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "247+215.3+129+165+147+700+295.65+8.10+1000+585+7245+266.8+242.31+44.88+67.10+15000+2409+2147+12650+700+445+10.38+76.10+8.20+2.5+17.99+35.95+75+45.56+57.36+29.43+6.75+32.86+7.44+7.25+18.65+58.30+4.15+7.08+16.64+8.99+15.68+20+72.94+72.94+19.36+25.95+56.81+13.95+8.83+4.10+3.98+10.22+13.40+18.95+16.8+23.19+13.55+8.9+24.96+13.4+24.96+17.82+3+19.99+6.72+8.9+3.05+3.85+20.76+24.96+4.9+4.9+46.95+19.9+18.4+94.5+18.9+12.95+2.22+16.4+52.28+16.7+70.43+204.74+32.91+2.12+1.85+25+55.85+55.31+15.6+16.8+34.5+3.32+14.29+45.24+10.2+4.47+17.8+87.85+15.6+57.77+2.58+8.45+18.95",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "15/04/2023",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 477244,
+    "ReportID": 14897,
+    "AssetTemplateID": 6,
+    "Name": "External",
+    "Area": 1,
+    "IsGivenCost": "0",
+    "RateFormula": "2500",
+    "QuantityFormula": "81",
+    "InstallationDateFormula": "03/02/2010",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 494099,
+    "ReportID": 14897,
+    "AssetTemplateID": 382,
+    "Name": "Fencing",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "300",
+    "QuantityFormula": "9.5",
+    "InstallationDateFormula": "03/02/2023",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

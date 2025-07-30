@@ -1,0 +1,67 @@
+[
+  {
+    "ID": 470957,
+    "ReportID": 14701,
+    "AssetTemplateID": 308,
+    "Name": "Roof and Gutters",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "19000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "10/11/2010",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 471049,
+    "ReportID": 14701,
+    "AssetTemplateID": 5,
+    "Name": "External",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "8000+8000+4000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "10/10/2002",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 471050,
+    "ReportID": 14701,
+    "AssetTemplateID": 297,
+    "Name": "Kitchen Reno",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "18502+4000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "03/02/2011",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 471051,
+    "ReportID": 14701,
+    "AssetTemplateID": 298,
+    "Name": "Bathroom Reno",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "19724",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "04/07/2017",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 471052,
+    "ReportID": 14701,
+    "AssetTemplateID": 5,
+    "Name": "External",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "6529",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "08/03/2019",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

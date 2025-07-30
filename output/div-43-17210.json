@@ -1,0 +1,80 @@
+[
+  {
+    "ID": 554065,
+    "ReportID": 17210,
+    "AssetTemplateID": 1,
+    "Name": "GFA House",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1980",
+    "QuantityFormula": "142-7-15",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 555537,
+    "ReportID": 17210,
+    "AssetTemplateID": 297,
+    "Name": "Kitchen Reno",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "30000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "17/04/2004",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 555538,
+    "ReportID": 17210,
+    "AssetTemplateID": 302,
+    "Name": "Paint",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "(120*85)+8500",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "11/10/2023",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 555541,
+    "ReportID": 17210,
+    "AssetTemplateID": 7,
+    "Name": "Balcony",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "20459",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "09/01/2018",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 555542,
+    "ReportID": 17210,
+    "AssetTemplateID": 3,
+    "Name": "Other",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "(90*77)+8500",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "20/02/2017",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 555543,
+    "ReportID": 17210,
+    "AssetTemplateID": 306,
+    "Name": "Laundry",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "7622",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "05/06/2022",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

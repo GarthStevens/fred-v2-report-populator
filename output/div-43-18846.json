@@ -1,0 +1,67 @@
+[
+  {
+    "ID": 606298,
+    "ReportID": 18846,
+    "AssetTemplateID": 8,
+    "Name": "Garage",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1980",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 606299,
+    "ReportID": 18846,
+    "AssetTemplateID": 1,
+    "Name": "GFA House",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1980",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 606745,
+    "ReportID": 18846,
+    "AssetTemplateID": 309,
+    "Name": "Full Reno",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "39441",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "14/4/24",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 606746,
+    "ReportID": 18846,
+    "AssetTemplateID": 297,
+    "Name": "Kitchen Reno",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "28554",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "18/5/22",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 606747,
+    "ReportID": 18846,
+    "AssetTemplateID": 312,
+    "Name": "Pergola",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "21000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "14/8/2001",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

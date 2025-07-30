@@ -1,0 +1,67 @@
+[
+  {
+    "ID": 577589,
+    "ReportID": 17917,
+    "AssetTemplateID": 1,
+    "Name": "GFA House",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "2100",
+    "QuantityFormula": "3.8*3.9+3.5*3.1+1.6*3.1+2.9*2+1.5+5",
+    "InstallationDateFormula": "05/02/1996",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 577590,
+    "ReportID": 17917,
+    "AssetTemplateID": 6,
+    "Name": "External",
+    "Area": 1,
+    "IsGivenCost": "0",
+    "RateFormula": "55000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "16/11/2010",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 577591,
+    "ReportID": 17917,
+    "AssetTemplateID": 305,
+    "Name": "Internal",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "25000+5000+8000+28000+12525",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "22/05/2021",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 577611,
+    "ReportID": 17917,
+    "AssetTemplateID": 6,
+    "Name": "External",
+    "Area": 1,
+    "IsGivenCost": "0",
+    "RateFormula": "250",
+    "QuantityFormula": "25",
+    "InstallationDateFormula": "5/7/2011",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 577612,
+    "ReportID": 17917,
+    "AssetTemplateID": 4,
+    "Name": "Other",
+    "Area": 1,
+    "IsGivenCost": "0",
+    "RateFormula": "300000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "05/02/1996",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

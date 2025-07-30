@@ -1,0 +1,80 @@
+[
+  {
+    "ID": 578917,
+    "ReportID": 17958,
+    "AssetTemplateID": 1,
+    "Name": "GFA House",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1980",
+    "QuantityFormula": "102",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 578937,
+    "ReportID": 17958,
+    "AssetTemplateID": 3,
+    "Name": "Other",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "4865+3886+219",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "07/05/2025",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 578939,
+    "ReportID": 17958,
+    "AssetTemplateID": 3,
+    "Name": "Other",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "23650+3280+1100+742+3750+350+119+995",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "05/03/2025",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 578940,
+    "ReportID": 17958,
+    "AssetTemplateID": 304,
+    "Name": "Deck",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "3500",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "19/06/2013",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 578943,
+    "ReportID": 17958,
+    "AssetTemplateID": 382,
+    "Name": "Fencing",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "6432",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "08/04/1998",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 578944,
+    "ReportID": 17958,
+    "AssetTemplateID": 297,
+    "Name": "Kitchen Reno",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "48377",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "12/02/2000",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

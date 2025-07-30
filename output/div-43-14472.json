@@ -1,0 +1,80 @@
+[
+  {
+    "ID": 463456,
+    "ReportID": 14472,
+    "AssetTemplateID": 300,
+    "Name": "Extension",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1700",
+    "QuantityFormula": "49",
+    "InstallationDateFormula": "16/09/1993",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 463490,
+    "ReportID": 14472,
+    "AssetTemplateID": 301,
+    "Name": "Swimming Pool",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "((42*900)+(67*1250)+17500)*1.1",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "14/12/2004",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 463491,
+    "ReportID": 14472,
+    "AssetTemplateID": 308,
+    "Name": "Roof and Gutters",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "15000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "23/08/2008",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 463492,
+    "ReportID": 14472,
+    "AssetTemplateID": 297,
+    "Name": "Kitchen Reno",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "(30000+27500+8000+(180*150))*1.1",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "11/03/2011",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 463493,
+    "ReportID": 14472,
+    "AssetTemplateID": 298,
+    "Name": "Bathroom Reno",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "16298",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "07/03/1998",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 463495,
+    "ReportID": 14472,
+    "AssetTemplateID": 8,
+    "Name": "Garage",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "885",
+    "QuantityFormula": "26",
+    "InstallationDateFormula": "19/01/2001",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

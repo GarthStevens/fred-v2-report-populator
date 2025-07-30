@@ -1,0 +1,54 @@
+[
+  {
+    "ID": 538355,
+    "ReportID": 16741,
+    "AssetTemplateID": 8,
+    "Name": "Garage",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1600",
+    "QuantityFormula": "40",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 538356,
+    "ReportID": 16741,
+    "AssetTemplateID": 1,
+    "Name": "GFA House",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "2250",
+    "QuantityFormula": "160",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 538379,
+    "ReportID": 16741,
+    "AssetTemplateID": 297,
+    "Name": "Kitchen Reno",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "33900+6000+2800+5000",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "11/12/2022",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 538380,
+    "ReportID": 16741,
+    "AssetTemplateID": 383,
+    "Name": "Patio",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1185",
+    "QuantityFormula": "4.5*8.5",
+    "InstallationDateFormula": "17/02/2003",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

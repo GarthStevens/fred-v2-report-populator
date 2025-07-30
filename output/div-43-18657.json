@@ -1,0 +1,67 @@
+[
+  {
+    "ID": 600442,
+    "ReportID": 18657,
+    "AssetTemplateID": 1,
+    "Name": "GFA House",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "550863.5",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 600492,
+    "ReportID": 18657,
+    "AssetTemplateID": 301,
+    "Name": "Swimming Pool",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "24900",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "25/11/2021",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 600493,
+    "ReportID": 18657,
+    "AssetTemplateID": 298,
+    "Name": "Bathroom Reno",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "3775+3540",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "24/11/2021",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 600494,
+    "ReportID": 18657,
+    "AssetTemplateID": 3,
+    "Name": "Other",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "6645+2860+5390",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "24/11/2021",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 600495,
+    "ReportID": 18657,
+    "AssetTemplateID": 313,
+    "Name": "Landscaping",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "18018-140-470-160-2800-970",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "24/11/2021",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

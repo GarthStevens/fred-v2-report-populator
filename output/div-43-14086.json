@@ -1,0 +1,80 @@
+[
+  {
+    "ID": 450381,
+    "ReportID": 14086,
+    "AssetTemplateID": 5,
+    "Name": "External",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "215",
+    "QuantityFormula": "40",
+    "InstallationDateFormula": "10/07/2012",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 450382,
+    "ReportID": 14086,
+    "AssetTemplateID": 3,
+    "Name": "Other",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1250",
+    "QuantityFormula": "12",
+    "InstallationDateFormula": "19/02/2011",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 450402,
+    "ReportID": 14086,
+    "AssetTemplateID": 300,
+    "Name": "Extension",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "1500",
+    "QuantityFormula": "30",
+    "InstallationDateFormula": "6/11/1997",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 450403,
+    "ReportID": 14086,
+    "AssetTemplateID": 302,
+    "Name": "Paint",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "13252",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "28/07/2023",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 450404,
+    "ReportID": 14086,
+    "AssetTemplateID": 308,
+    "Name": "Roof and Gutters",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "22365",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "16/03/2001",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 450405,
+    "ReportID": 14086,
+    "AssetTemplateID": 305,
+    "Name": "Internal",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "6658",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "16/03/2001",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]

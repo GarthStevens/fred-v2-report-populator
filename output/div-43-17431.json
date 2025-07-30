@@ -1,0 +1,41 @@
+[
+  {
+    "ID": 561563,
+    "ReportID": 17431,
+    "AssetTemplateID": 1,
+    "Name": "GFA House",
+    "Area": 0,
+    "IsGivenCost": "0",
+    "RateFormula": "3750",
+    "QuantityFormula": "93",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 561630,
+    "ReportID": 17431,
+    "AssetTemplateID": 6,
+    "Name": "External",
+    "Area": 1,
+    "IsGivenCost": "0",
+    "RateFormula": "250",
+    "QuantityFormula": "415",
+    "InstallationDateFormula": "cc",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  },
+  {
+    "ID": 561631,
+    "ReportID": 17431,
+    "AssetTemplateID": 303,
+    "Name": "Plumbing and Electrical",
+    "Area": 0,
+    "IsGivenCost": "1",
+    "RateFormula": "17626",
+    "QuantityFormula": "1",
+    "InstallationDateFormula": "09/07/2013",
+    "ScrappedDateFormula": null,
+    "IsNonDepreciable": "0"
+  }
+]
