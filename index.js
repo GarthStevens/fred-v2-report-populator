@@ -2,11 +2,22 @@ const hubspot = require("@hubspot/api-client");
 const fs = require("fs");
 const dotenv = require("dotenv");
 const { parse, formatISO } = require("date-fns");
+const { createClient } = require("@supabase/supabase-js");
+const { create } = require("domain");
 
 dotenv.config();
 
 const HUBSPOT_TOKEN = process.env.HUBSPOT_PRIVATE_APP_TOKEN;
 const hubspotClient = new hubspot.Client({ accessToken: HUBSPOT_TOKEN });
+
+const NEXT_PUBLIC_SUPABASE_URL = process.env.NEXT_PUBLIC_SUPABASE_URL;
+const SUPABASE_SERVICE_ROLE_KEY = process.env.SUPABASE_SERVICE_ROLE_KEY;
+
+// Create a single supabase client for interacting with your database
+const supabase = createClient(
+  NEXT_PUBLIC_SUPABASE_URL,
+  SUPABASE_SERVICE_ROLE_KEY
+);
 
 async function searchDeals(dealName) {
   const url = new URL("https://api.hubapi.com/crm/v3/objects/deals/search");
@@ -53,21 +64,60 @@ function isInvalidDate(dateInput) {
 async function run() {
   const reports = JSON.parse(fs.readFileSync("reports.json", "utf8"));
 
-  for (const report of reports) {
-    const exists = await searchDeals(report.Reference);
+  for (const r of reports) {
+    const exists = await searchDeals(r.Reference);
 
     if (exists) {
       continue;
     }
 
-    createDeal(report);
+    const deal = await buildDeal(r);
+    const report = await buildReport(r);
+
+    console.log(deal, report);
+
+    if (!deal || !report) {
+      console.error(
+        `Skipping report ${report.Reference} due to invalid dates or missing data`
+      );
+      continue;
+    }
+
+    const dealId = await createDeal(deal);
+    console.log(dealId);
+    createReport({ ...report, hubspot_deal_id: dealId });
+
+    console.log(`Created deal for report ${r.Reference} with ID ${dealId}`);
 
     return;
   }
 
-  async function createDeal(report) {
+  async function buildReport(report) {
+    const reportDate = parse(report.ReportDate, "dd/MM/yyyy", new Date());
+    if (isInvalidDate(reportDate)) {
+      return null;
+    }
+
+    const result = {
+      report_date: formatISO(reportDate, { representation: "date" }),
+      years_in_schedule: report.YearsInSchedule,
+      pre_notional_write_down_years: report.PreNotionalWriteDownYears,
+      notional_write_down_rate: report.NotionalWriteDownRate,
+      notional_write_down_governor: report.NotionalWriteDownGovernor,
+      preliminary_fees: report.PreliminaryFees,
+      reference: report.Reference,
+      expenditure_governor: report.ExpenditureGovernor,
+      consultancy_fees: report.ConsultancyFees,
+      back_claim_years: report.NumberOfYearsToBackClaim,
+    };
+
+    return result;
+  }
+
+  async function buildDeal(report) {
     const ccd = parse(report.ConstructionCompletion, "dd/MM/yyyy", new Date());
     const settlement = parse(report.Settlement, "dd/MM/yyyy", new Date());
+    const common_entitlement = parseFloat(report.CommonEntitlementFormula);
 
     const firstUse =
       report.AvailableFirstUseFormula === "settlement"
@@ -77,40 +127,60 @@ async function run() {
     if (
       isInvalidDate(ccd) ||
       isInvalidDate(settlement) ||
-      isInvalidDate(firstUse)
+      isInvalidDate(firstUse) ||
+      isNaN(common_entitlement)
     ) {
-      console.log("Skipping", report.Reference);
-      return;
+      return null;
     }
 
+    const deal = {
+      settlement_date: formatISO(settlement, { representation: "date" }),
+      ccd: formatISO(ccd, { representation: "date" }),
+      first_use_date: formatISO(firstUse, { representation: "date" }),
+      dealname: report.Reference,
+      purchase_price: report.PurchasePrice,
+      property_type: "Unit",
+      common_entitlement,
+      land_value: report.LandValue,
+      number_of_levels: report.NumberOfLevels,
+      number_of_units: report.NumberOfUnits,
+      strata_provider: report.StrataPlanProvider,
+      verbal_info: report.VerbalInformationProvidedBy,
+      written_info: report.WrittenInformationProvidedBy,
+      council: report.CouncilName,
+      // is_brand_new:
+    };
+
+    return deal;
+  }
+
+  async function createDeal(deal) {
     const config = {
-      properties: {
-        settlement_date: formatISO(settlement, { representation: "date" }),
-        ccd: formatISO(ccd, { representation: "date" }),
-        first_use_date: formatISO(firstUse, { representation: "date" }),
-        dealname: report.Reference,
-        purchase_price: report.PurchasePrice,
-        property_type: "Unit",
-        common_entitlement: report.CommonEntitlementFormula,
-        land_value: report.LandValue,
-        number_of_levels: report.NumberOfLevels,
-        number_of_units: report.NumberOfUnits,
-        strata_provider: report.StrataPlanProvider,
-        verbal_info: report.VerbalInformationProvidedBy,
-        written_info: report.WrittenInformationProvidedBy,
-        council: report.CouncilName,
-        // is_brand_new:
-      },
+      properties: deal,
     };
 
     try {
       const apiResponse = await hubspotClient.crm.deals.basicApi.create(config);
-      console.log(JSON.stringify(apiResponse, null, 2));
+
+      return apiResponse.id;
     } catch (e) {
       e.message === "HTTP request failed"
         ? console.error(JSON.stringify(e.response, null, 2))
         : console.error(e);
+
+      return null;
     }
+  }
+}
+
+async function createReport(report) {
+  const { data, error } = await supabase
+    .from("reports")
+    .upsert(report, { onConflict: ["reference"] });
+
+  if (error) {
+    console.error("Error creating report:", error);
+    return null;
   }
 }
 
